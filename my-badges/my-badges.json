@@ -1,19 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/yoavain/mediaportal-latest-media-handler/commit/a3e23b00fc48260d7bd6c8cb52e6d6786f294796\"><strong>a</strong>3e23b00fc48260d7bd6c8cb52e6d6786f294796</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/abfa125209fecdbaf4a0412ba6ae9a6ecbe53115\"><strong>ab</strong>fa125209fecdbaf4a0412ba6ae9a6ecbe53115</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
-  },
-  {
     "id": "abc-commit",
     "tier": 3,
     "desc": "One of my commit sha starts with \"abc\".",
@@ -35,13 +21,6 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   },
   {
-    "id": "github-anniversary-5",
-    "tier": 0,
-    "desc": "I joined GitHub 5 years ago.",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
@@ -56,25 +35,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/573c51a95869b9323288cc190c70f415f024722a\">573c51a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
-  },
-  {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/e84316fb18b9014723a5d1405f34ada3cb00c4ab\">e84316f</a>: Fix GitHub links ...\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d01d1f10d4e19b26072bf23d0fbeb2e82ab98e5f\">d01d1f1</a>: Fix Update links ...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
     "id": "fix-4",
@@ -105,13 +70,6 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
   },
   {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for 1 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/home-assistant/core/issues/45961\">#45961</a>: Google Calendar sensor show only one Birthday event\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
@@ -122,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 769 times)\n2. - (used 762 times)\n3. for (used 413 times)\n4. to (used 380 times)\n5. fix (used 327 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 771 times)\n2. - (used 762 times)\n3. for (used 414 times)\n4. to (used 381 times)\n5. fix (used 327 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
