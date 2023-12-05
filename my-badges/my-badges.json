@@ -1,0 +1,135 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/yoavain/mediaportal-latest-media-handler/commit/a3e23b00fc48260d7bd6c8cb52e6d6786f294796\"><strong>a</strong>3e23b00fc48260d7bd6c8cb52e6d6786f294796</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/abfa125209fecdbaf4a0412ba6ae9a6ecbe53115\"><strong>ab</strong>fa125209fecdbaf4a0412ba6ae9a6ecbe53115</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/abced0ede5ccd9be069a72849da9e181314fd8d4\"><strong>abc</strong>ed0ede5ccd9be069a72849da9e181314fd8d4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abc-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/cb9bb435fbcf7607af863418d973552e3ed45350\">cb9bb43</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/a278ea52abf4112a3f7fffb4791d56fcaefee48d\">a278ea5</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4418fd7bfe2fe57f81f8e5d0b8e7840b1ec6427e\">4418fd7</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/b3556eb4a703cf3fbd9fdee0f6bfa57a7fed6b65\">b3556eb</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/ec78f5181b79867a21bbb27f30644277cc8f02e2\">ec78f51</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/e4a4cc6778b5e51e71d43d7bc10ea57c28cc393a\">e4a4cc6</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/664f3475e6a8a7e3358f49540a9b7e8cbcc01d79\">664f347</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 1 times.",
+    "body": "- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/3dead75c62eb8f8a66d5b5f4937f2cd25b532823\">3<strong>dead</strong>75c62eb8f8a66d5b5f4937f2cd25b532823</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/573c51a95869b9323288cc190c70f415f024722a\">573c51a</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/e84316fb18b9014723a5d1405f34ada3cb00c4ab\">e84316f</a>: Fix GitHub links ...\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d01d1f10d4e19b26072bf23d0fbeb2e82ab98e5f\">d01d1f1</a>: Fix Update links ...",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/88208ef35e66c420e773657e4ef139b2f12e8088\">88208ef</a>: Fix for DB Load fanart update\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/87f72285846a77a50dab87b7513242c73b2a7d83\">87f7228</a>: Fix for GetMovingPicturesBackdrops\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/64ca7b99c3301c468029791333b2407bf2bcd7c3\">64ca7b9</a>: Fix W10 Spotlight support\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/51f349ee867f5d7e5a32dd8707883887c4ade765\">51f349e</a>: Fix W10 Spotlight file watcher init",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/106\">#106</a>: Mp1 4831 skin engine. minor improvements for skin.properties support",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for 1 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/home-assistant/core/issues/45961\">#45961</a>: Google Calendar sensor show only one Birthday event\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/AlexxIT/GyverLamp/issues/4\">#4</a>: Сервис управления лампой Was: Поддержка нескольких ламп \n- <a href=\"https://github.com/ha0y/xiaomi_miot_raw/issues/144\">#144</a>: Yeelight Wireless Switch S1 - Not work",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 769 times)\n2. - (used 762 times)\n3. for (used 413 times)\n4. to (used 380 times)\n5. fix (used 327 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n- <a href=\"https://github.com/bramstroker/homeassistant-powercalc/issues/1779\">#1779</a>: Add the ability to create an Energy sensor from an existing Power sensor.\n\n And many more...",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
