@@ -16,7 +16,7 @@
 <a href="my-badges/covid-19.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/old-issue-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-2.png?raw=true" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;-&quot;." title="My favorite word is &quot;-&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <!-- my-badges end -->
 
