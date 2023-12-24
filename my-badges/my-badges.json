@@ -10,7 +10,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/69b492444f47910301da84bdeb64f8e020f8ed4f\">69b4924</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/47c2fa04c97724c97035486c14749355ce708139\">47c2fa0</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/0d19ce97243912296d086752912610585d34d64d\">0d19ce9</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/51bf4e9af02bc9fbd1f0c84058312039c17484d4\">51bf4e9</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/98b859b0448e8564d4f76bb81668efb259447ac0\">98b859b</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/ec8eb112092014071cd371407e92588184ca0740\">ec8eb11</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/69b492444f47910301da84bdeb64f8e020f8ed4f\">69b4924</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/f047a36c545838aa97bb056c65e5ea462cc9e524\">f047a36</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/47c2fa04c97724c97035486c14749355ce708139\">47c2fa0</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/0d19ce97243912296d086752912610585d34d64d\">0d19ce9</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/ebaceee0b7b459b3d4f38f7ff30cc04ed2af5307\">ebaceee</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/51bf4e9af02bc9fbd1f0c84058312039c17484d4\">51bf4e9</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"-\".",
-    "body": "My favorite commit message words are:\n\n1. - (used 790 times)\n2. add (used 780 times)\n3. for (used 414 times)\n4. to (used 385 times)\n5. fix (used 329 times)",
+    "body": "My favorite commit message words are:\n\n1. - (used 790 times)\n2. add (used 782 times)\n3. for (used 419 times)\n4. to (used 394 times)\n5. fix (used 333 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/my-badges/my-badges/issues/42\">#42</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32\">9227491</a>: chore: Refactoring Advanced Bitmap mode",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
   }
 ]
