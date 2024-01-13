@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"-\".",
-    "body": "My favorite commit message words are:\n\n1. - (used 817 times)\n2. add (used 790 times)\n3. for (used 426 times)\n4. to (used 410 times)\n5. fix (used 337 times)",
+    "body": "My favorite commit message words are:\n\n1. - (used 826 times)\n2. add (used 792 times)\n3. for (used 426 times)\n4. to (used 410 times)\n5. fix (used 338 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32\">9227491</a>: chore: Refactoring Advanced Bitmap mode",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/5e4319a210f05db22d50c6d0c5fa89eb19eb2219\">5e4319a</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a\">052d5e9</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true"
   }
 ]
