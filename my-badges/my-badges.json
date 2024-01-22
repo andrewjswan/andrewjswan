@@ -42,11 +42,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
   },
   {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/88208ef35e66c420e773657e4ef139b2f12e8088\">88208ef</a>: Fix for DB Load fanart update\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/87f72285846a77a50dab87b7513242c73b2a7d83\">87f7228</a>: Fix for GetMovingPicturesBackdrops\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/64ca7b99c3301c468029791333b2407bf2bcd7c3\">64ca7b9</a>: Fix W10 Spotlight support\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/51f349ee867f5d7e5a32dd8707883887c4ade765\">51f349e</a>: Fix W10 Spotlight file watcher init",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/39e117b6e7ce6b8788817dbfbcd56252416d6b2b\">39e117b</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/7b5a25a4bc236330d17e8285a9a0c45b1b3071db\">7b5a25a</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/c5537e14345f33f405454c233ad47314838b1de3\">c5537e1</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/779265e6c85e5e2340db8d4b4d28a7f918bf41fe\">779265e</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/419f611a9558575f6b84a5d624c3de5764db697f\">419f611</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/814a11c686fb8708b311be1a2a3a0e1d13123822\">814a11c</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/bba4bedd2ec1be5b3001b737e40c11bcbcee9de4\">bba4bed</a>: fix ffmpeg build error (azzuro patch)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true"
   },
   {
     "id": "delorean",
@@ -79,8 +79,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"-\".",
-    "body": "My favorite commit message words are:\n\n1. - (used 826 times)\n2. add (used 792 times)\n3. for (used 426 times)\n4. to (used 410 times)\n5. fix (used 338 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 943 times)\n2. - (used 835 times)\n3. to (used 525 times)\n4. for (used 458 times)\n5. fix (used 379 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
