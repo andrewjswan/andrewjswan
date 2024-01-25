@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 952 times)\n2. - (used 835 times)\n3. to (used 532 times)\n4. for (used 459 times)\n5. fix (used 380 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 952 times)\n2. - (used 835 times)\n3. to (used 532 times)\n4. for (used 459 times)\n5. fix (used 382 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/5e4319a210f05db22d50c6d0c5fa89eb19eb2219\">5e4319a</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a\">052d5e9</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/257\">#257</a>: MP1.33-Pre: Deploytools French language update",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   }
 ]
