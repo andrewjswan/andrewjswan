@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   my-badges:
+    name: My Badges
     runs-on: ubuntu-latest
     steps:
       - name: Update Badges
