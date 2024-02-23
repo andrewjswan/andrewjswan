@@ -23,5 +23,6 @@
 <a href="my-badges/revert-revert-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true" alt="I reverted a revert commit." title="I reverted a revert commit." width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/morning-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
