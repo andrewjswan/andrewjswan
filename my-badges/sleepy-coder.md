@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/be7206b003d3199d5b0a739a085e8ba356aee114">be7206b</a>
+- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/90f616f4e81dbedbbf3573cb5a358e638472f673">90f616f</a>
 - <a href="https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e">2a03652</a>
 
 
