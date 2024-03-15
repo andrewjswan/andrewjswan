@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1009 times)\n2. to (used 588 times)\n3. for (used 480 times)\n4. fix (used 406 times)\n5. update (used 404 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1007 times)\n2. to (used 586 times)\n3. for (used 480 times)\n4. fix (used 406 times)\n5. update (used 398 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -138,5 +138,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/257\">#257</a>: MP1.33-Pre: Deploytools French language update",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
+  },
+  {
+    "id": "yeti",
+    "tier": 0,
+    "desc": "I found the yeti!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true"
   }
 ]
