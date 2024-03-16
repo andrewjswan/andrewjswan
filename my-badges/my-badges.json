@@ -17,7 +17,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd\">1c229da</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/90f616f4e81dbedbbf3573cb5a358e638472f673\">90f616f</a>\n- <a href=\"https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e\">2a03652</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd\">1c229da</a>\n- <a href=\"https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e\">2a03652</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
   },
   {
@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1007 times)\n2. to (used 586 times)\n3. for (used 480 times)\n4. fix (used 406 times)\n5. update (used 398 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1004 times)\n2. to (used 582 times)\n3. for (used 480 times)\n4. fix (used 407 times)\n5. update (used 389 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -143,7 +143,7 @@
     "id": "yeti",
     "tier": 0,
     "desc": "I found the yeti!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096\">aa3f5f7</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true"
   }
 ]

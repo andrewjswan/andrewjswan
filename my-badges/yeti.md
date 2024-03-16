@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08">fbcb992</a>
+- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096">aa3f5f7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
