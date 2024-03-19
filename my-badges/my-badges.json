@@ -56,18 +56,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 7 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/39e117b6e7ce6b8788817dbfbcd56252416d6b2b\">39e117b</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/7b5a25a4bc236330d17e8285a9a0c45b1b3071db\">7b5a25a</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/c5537e14345f33f405454c233ad47314838b1de3\">c5537e1</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/779265e6c85e5e2340db8d4b4d28a7f918bf41fe\">779265e</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/419f611a9558575f6b84a5d624c3de5764db697f\">419f611</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/814a11c686fb8708b311be1a2a3a0e1d13123822\">814a11c</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/bba4bedd2ec1be5b3001b737e40c11bcbcee9de4\">bba4bed</a>: fix ffmpeg build error (azzuro patch)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true"
+    "id": "yeti",
+    "tier": 0,
+    "desc": "I found the yeti!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096\">aa3f5f7</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true"
   },
   {
     "id": "delorean",
@@ -82,6 +75,20 @@
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/39e117b6e7ce6b8788817dbfbcd56252416d6b2b\">39e117b</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/7b5a25a4bc236330d17e8285a9a0c45b1b3071db\">7b5a25a</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/c5537e14345f33f405454c233ad47314838b1de3\">c5537e1</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/779265e6c85e5e2340db8d4b4d28a7f918bf41fe\">779265e</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/419f611a9558575f6b84a5d624c3de5764db697f\">419f611</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/814a11c686fb8708b311be1a2a3a0e1d13123822\">814a11c</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/bba4bedd2ec1be5b3001b737e40c11bcbcee9de4\">bba4bed</a>: fix ffmpeg build error (azzuro patch)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true"
   },
   {
     "id": "pr-collaboration-5",
@@ -138,12 +145,5 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/257\">#257</a>: MP1.33-Pre: Deploytools French language update",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
-  },
-  {
-    "id": "yeti",
-    "tier": 0,
-    "desc": "I found the yeti!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096\">aa3f5f7</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true"
   }
 ]
