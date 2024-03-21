@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/d2e8c64b54a34dfd1fc5f4d7f74a0dc481bb4533">d2e8c64</a>
-- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/f1fc0714a841d1bd8824c200f14740445979cdea">f1fc071</a>
-- <a href="https://github.com/andrewjswan/MPE/commit/d48ae9a4dd6e1eb1cdf6d0cd841e71c8c78ce9bc">d48ae9a</a>
-- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/d49ad739d7b444e72497b800f3182060d23793f4">d49ad73</a>
-- <a href="https://github.com/andrewjswan/ha-config/commit/6d48812c7f17a6ec298d67a55ffa75d45b904cba">6d48812</a>
-- <a href="https://github.com/andrewjswan/ha-config/commit/796df23a8d92bcd90048e10cb146fd6a70bbaaae">796df23</a>
+- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740">8744b7f</a>
+- <a href="https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4">333aa69</a>
+- <a href="https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3">531c855</a>
+- <a href="https://github.com/andrewjswan/mediaportal-tunein/commit/b58b3018b1cdbf2c8be355a6d6c5b8c7189adac8">b58b301</a>
+- <a href="https://github.com/andrewjswan/mediaportal-tunein/commit/b0f4f27bb9491ec8164a31bc2b223346bab1b6ab">b0f4f27</a>
+- <a href="https://github.com/andrewjswan/MPE/commit/146c5739fb1576344314ef28d11d839cdd612eb4">146c573</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
