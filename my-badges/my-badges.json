@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/4bda400efbe365f120faa00ad9c386976c0e59e0\">4bda400</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.genres/commit/ff8ae9ac5bdf113fe3285de07b3517b275d2e2b3\">ff8ae9a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/edceb15ddd95866a04ec28c7931c7355c8daa47b\">edceb15</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3\">531c855</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/3dd848a33cb16291711d3229c346fdc1cb0a0abf\">3dd848a</a>\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/4bda400efbe365f120faa00ad9c386976c0e59e0\">4bda400</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.genres/commit/ff8ae9ac5bdf113fe3285de07b3517b275d2e2b3\">ff8ae9a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/edceb15ddd95866a04ec28c7931c7355c8daa47b\">edceb15</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1003 times)\n2. to (used 594 times)\n3. for (used 484 times)\n4. fix (used 409 times)\n5. update (used 400 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1009 times)\n2. to (used 597 times)\n3. for (used 485 times)\n4. fix (used 409 times)\n5. update (used 401 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
