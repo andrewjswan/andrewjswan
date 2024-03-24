@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/my-badges/commit/3dd848a33cb16291711d3229c346fdc1cb0a0abf">3dd848a</a>
-- <a href="https://github.com/yoavain/mediaportal-fanart-handler/commit/4bda400efbe365f120faa00ad9c386976c0e59e0">4bda400</a>
-- <a href="https://github.com/andrewjswan/mediaportal.images.genres/commit/ff8ae9ac5bdf113fe3285de07b3517b275d2e2b3">ff8ae9a</a>
-- <a href="https://github.com/andrewjswan/mediaportal.images.studios/commit/edceb15ddd95866a04ec28c7931c7355c8daa47b">edceb15</a>
-- <a href="https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740">8744b7f</a>
-- <a href="https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4">333aa69</a>
+- <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/9d543da7947f43bce087cef9ed22547b5d8a0bcc">9d543da</a>
+- <a href="https://github.com/andrewjswan/mediaportal-skin-themes/commit/3e5697c7dd3176b6c2b5f25dae74dfbb06d93c06">3e5697c</a>
+- <a href="https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee">d3761e7</a>
+- <a href="https://github.com/andrewjswan/CECRemote/commit/89904e1d4a3e5bbe8df5edc5fef6abeae76e8e7f">89904e1</a>
+- <a href="https://github.com/andrewjswan/CECRemote/commit/6a4bfe62663bb03ea160fae496797a826d411e63">6a4bfe6</a>
+- <a href="https://github.com/andrewjswan/WifiRemote/commit/c2987db68f39ca88a91e6d0fbfcc21ed59742f7d">c2987db</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
