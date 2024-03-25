@@ -31,14 +31,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/9d543da7947f43bce087cef9ed22547b5d8a0bcc\">9d543da</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-skin-themes/commit/3e5697c7dd3176b6c2b5f25dae74dfbb06d93c06\">3e5697c</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/89904e1d4a3e5bbe8df5edc5fef6abeae76e8e7f\">89904e1</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/6a4bfe62663bb03ea160fae496797a826d411e63\">6a4bfe6</a>\n- <a href=\"https://github.com/andrewjswan/WifiRemote/commit/c2987db68f39ca88a91e6d0fbfcc21ed59742f7d\">c2987db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/5d82b7f08f282263cae224bfccc1c5229a7bcda9\">5d82b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/3c371b788d9d1697e7cc0543f4160b805905e556\">3c371b7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d2cdb4057f46038979ffd0006519bddff39285ce\">d2cdb40</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/bc0691275b25c5f91bfbe8a0de1e7a53d1e55697\">bc06912</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/a6962ff768d50e0c959e9d08f2bdf0c0a3c64f88\">a6962ff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/b28cf70bfc1db5f04eea23ec265cf33c8e556c68\">b28cf70</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/664f3475e6a8a7e3358f49540a9b7e8cbcc01d79\">664f347</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/664f3475e6a8a7e3358f49540a9b7e8cbcc01d79\">664f347</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   },
   {
@@ -52,7 +52,7 @@
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 1 times.",
-    "body": "- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/3dead75c62eb8f8a66d5b5f4937f2cd25b532823\">3<strong>dead</strong>75c62eb8f8a66d5b5f4937f2cd25b532823</a>",
+    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3dead75c62eb8f8a66d5b5f4937f2cd25b532823\">3<strong>dead</strong>75c62eb8f8a66d5b5f4937f2cd25b532823</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>\n- <a href=\"https://github.com/yoavain/mediaportal-fanart-handler/commit/bf543f9560ff14abb8ac7dda50ff0a1b18d5835f\">bf543f9</a>\n- <a href=\"https://github.com/yoavain/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/bf543f9560ff14abb8ac7dda50ff0a1b18d5835f\">bf543f9</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1009 times)\n2. to (used 602 times)\n3. for (used 486 times)\n4. fix (used 410 times)\n5. update (used 403 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1010 times)\n2. to (used 608 times)\n3. for (used 486 times)\n4. fix (used 412 times)\n5. update (used 403 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
