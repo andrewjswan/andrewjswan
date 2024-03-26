@@ -27,5 +27,6 @@
 <a href="my-badges/revert-revert-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true" alt="I reverted a revert commit." title="I reverted a revert commit." width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
+<a href="my-badges/cosmetic-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <!-- my-badges end -->
 
