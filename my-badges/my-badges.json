@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/5d82b7f08f282263cae224bfccc1c5229a7bcda9\">5d82b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/3c371b788d9d1697e7cc0543f4160b805905e556\">3c371b7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d2cdb4057f46038979ffd0006519bddff39285ce\">d2cdb40</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/bc0691275b25c5f91bfbe8a0de1e7a53d1e55697\">bc06912</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/a6962ff768d50e0c959e9d08f2bdf0c0a3c64f88\">a6962ff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/b28cf70bfc1db5f04eea23ec265cf33c8e556c68\">b28cf70</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/e5b32f291d9f9979b33f2e3d720b38fef2942ccf\">e5b32f2</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/478b4861deeb21b43b886988c3b0155e161cc16f\">478b486</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/25736e3c640590750fde077279784c2e6e30d6d0\">25736e3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/5d82b7f08f282263cae224bfccc1c5229a7bcda9\">5d82b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/3c371b788d9d1697e7cc0543f4160b805905e556\">3c371b7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d2cdb4057f46038979ffd0006519bddff39285ce\">d2cdb40</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1010 times)\n2. to (used 608 times)\n3. for (used 486 times)\n4. fix (used 412 times)\n5. update (used 403 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1015 times)\n2. to (used 614 times)\n3. for (used 487 times)\n4. fix (used 412 times)\n5. update (used 406 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3\">531c855</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/eaf172b3b68ad05c5d42544811518c74228c3453\">eaf172b</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/9152d97abd3f4deedfd1b9a6cb4255cd68b87822\">9152d97</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3\">531c855</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/eaf172b3b68ad05c5d42544811518c74228c3453\">eaf172b</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
