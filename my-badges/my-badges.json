@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1015 times)\n2. to (used 614 times)\n3. for (used 487 times)\n4. fix (used 412 times)\n5. update (used 406 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1016 times)\n2. to (used 614 times)\n3. for (used 487 times)\n4. update (used 415 times)\n5. fix (used 413 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3\">531c855</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/eaf172b3b68ad05c5d42544811518c74228c3453\">eaf172b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/eb4dc46508e6f4701026b0376b02fc6b6bb5533c\">eb4dc46</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/531c855f2fbc6d415c2e5f79fc315d3dea3e76c3\">531c855</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
