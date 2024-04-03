@@ -1,7 +1,10 @@
 ### Hi there 👋
-
+<div align="center">
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrewjswan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+<div align="center">
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
@@ -29,4 +32,4 @@
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <!-- my-badges end -->
-
+</div>
