@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. to (used 619 times)
 3. for (used 490 times)
 4. update (used 418 times)
-5. fix (used 415 times)
+5. fix (used 416 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
