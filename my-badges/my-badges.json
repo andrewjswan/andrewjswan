@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1019 times)\n2. to (used 619 times)\n3. for (used 490 times)\n4. update (used 421 times)\n5. fix (used 416 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1029 times)\n2. to (used 653 times)\n3. for (used 500 times)\n4. update (used 421 times)\n5. fix (used 418 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/eb4dc46508e6f4701026b0376b02fc6b6bb5533c\">eb4dc46</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/333aa69ebeeb7a674a2f489ee793f5678fbe3db4\">333aa69</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/eb4dc46508e6f4701026b0376b02fc6b6bb5533c\">eb4dc46</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
