@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/21a4cb418e4ae3e0415f070ac86cd88c652c12fb\">21a4cb4</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/e5b32f291d9f9979b33f2e3d720b38fef2942ccf\">e5b32f2</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/478b4861deeb21b43b886988c3b0155e161cc16f\">478b486</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/25736e3c640590750fde077279784c2e6e30d6d0\">25736e3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/5d82b7f08f282263cae224bfccc1c5229a7bcda9\">5d82b7f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/3c371b788d9d1697e7cc0543f4160b805905e556\">3c371b7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/andrewjswan/commit/2375651f6c6013ee5afc62f2cf281d3b7fbae676\">2375651</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/21a4cb418e4ae3e0415f070ac86cd88c652c12fb\">21a4cb4</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/e5b32f291d9f9979b33f2e3d720b38fef2942ccf\">e5b32f2</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/478b4861deeb21b43b886988c3b0155e161cc16f\">478b486</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/25736e3c640590750fde077279784c2e6e30d6d0\">25736e3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/5d82b7f08f282263cae224bfccc1c5229a7bcda9\">5d82b7f</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1029 times)\n2. to (used 653 times)\n3. for (used 500 times)\n4. update (used 421 times)\n5. fix (used 418 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1032 times)\n2. to (used 658 times)\n3. for (used 501 times)\n4. update (used 423 times)\n5. fix (used 418 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/eb4dc46508e6f4701026b0376b02fc6b6bb5533c\">eb4dc46</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/8744b7f39c9651e4f02e763a33aea044cc132740\">8744b7f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/eb4dc46508e6f4701026b0376b02fc6b6bb5533c\">eb4dc46</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/ebb08661a702ba3f09fda85f8e03b9dec9aec9f5\">ebb0866</a>\n- <a href=\"https://github.com/andrewjswan/CECRemote/commit/d3761e711e9de6ff42033ecb5e2b7fe3beeedcee\">d3761e7</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
