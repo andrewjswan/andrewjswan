@@ -31,14 +31,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/04c051576a505b61771f5f1271aaf5dc605a40c8\">04c0515</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/0b93e69f2ad736c4a8f884fb69b1f29db4ccecbd\">0b93e69</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/d65c0aecea8a5d2461c8f9c4af6e518fe4b2acb6\">d65c0ae</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/e1118bb38aec442691d23f9b8aaa2457b4ac561c\">e1118bb</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/2161b25de2402c463a2b1356277fedc3afc514b4\">2161b25</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/04c051576a505b61771f5f1271aaf5dc605a40c8\">04c0515</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/0b93e69f2ad736c4a8f884fb69b1f29db4ccecbd\">0b93e69</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/d65c0aecea8a5d2461c8f9c4af6e518fe4b2acb6\">d65c0ae</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/e1118bb38aec442691d23f9b8aaa2457b4ac561c\">e1118bb</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/664f3475e6a8a7e3358f49540a9b7e8cbcc01d79\">664f347</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/9abc188a02ad38529af9e318eb04e7d1831aac90\">9abc188</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1041 times)\n2. to (used 681 times)\n3. for (used 502 times)\n4. update (used 478 times)\n5. fix (used 420 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1046 times)\n2. to (used 686 times)\n3. for (used 502 times)\n4. update (used 486 times)\n5. fix (used 420 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
