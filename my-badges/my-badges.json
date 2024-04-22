@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1050 times)\n2. to (used 687 times)\n3. for (used 502 times)\n4. update (used 486 times)\n5. fix (used 420 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1051 times)\n2. to (used 687 times)\n3. for (used 502 times)\n4. update (used 486 times)\n5. fix (used 420 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
