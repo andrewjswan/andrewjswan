@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae\">5e8b819</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ae3fadecb234517d4e8f000fb86c0c0b6dd976dc\">ae3fade</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/2161b25de2402c463a2b1356277fedc3afc514b4\">2161b25</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/04c051576a505b61771f5f1271aaf5dc605a40c8\">04c0515</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/0b93e69f2ad736c4a8f884fb69b1f29db4ccecbd\">0b93e69</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/54c0e78d97db64d7b40dfd429503e07fe3e21a84\">54c0e78</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae\">5e8b819</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ae3fadecb234517d4e8f000fb86c0c0b6dd976dc\">ae3fade</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/2161b25de2402c463a2b1356277fedc3afc514b4\">2161b25</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/04c051576a505b61771f5f1271aaf5dc605a40c8\">04c0515</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1052 times)\n2. to (used 687 times)\n3. for (used 502 times)\n4. update (used 488 times)\n5. fix (used 420 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1052 times)\n2. to (used 687 times)\n3. for (used 502 times)\n4. update (used 489 times)\n5. fix (used 421 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/6483b1adc14be60e4bc873c6361105aaeba76f6f\">6483b1a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/c43b59dda329858cd1967765250e27693f2fdc27\">c43b59d</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
