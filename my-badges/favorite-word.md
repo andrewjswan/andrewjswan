@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. add (used 1052 times)
 2. to (used 693 times)
-3. for (used 510 times)
-4. update (used 492 times)
+3. for (used 511 times)
+4. update (used 494 times)
 5. fix (used 426 times)
 
 
