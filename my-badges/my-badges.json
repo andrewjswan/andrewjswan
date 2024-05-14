@@ -108,14 +108,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1053 times)\n2. to (used 693 times)\n3. for (used 511 times)\n4. update (used 496 times)\n5. fix (used 427 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1054 times)\n2. to (used 696 times)\n3. for (used 516 times)\n4. update (used 496 times)\n5. fix (used 427 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent/issues/153\">#153</a>: Deprecated and will be removed in Home Assistant 2025.5\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n- <a href=\"https://github.com/bramstroker/homeassistant-powercalc/issues/1779\">#1779</a>: Add the ability to create an Energy sensor from an existing Power sensor.\n\n And many more...",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
   },
   {
