@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1071 times)\n2. to (used 726 times)\n3. for (used 536 times)\n4. update (used 532 times)\n5. fix (used 446 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1071 times)\n2. to (used 728 times)\n3. for (used 536 times)\n4. update (used 533 times)\n5. fix (used 446 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -129,7 +129,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32\">9227491</a>: chore: Refactoring Advanced Bitmap mode",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/eaf172b3b68ad05c5d42544811518c74228c3453\">eaf172b</a>: chore: Cosmetic",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
   },
   {

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32">9227491</a>: chore: Refactoring Advanced Bitmap mode
+- <a href="https://github.com/andrewjswan/esphome-config/commit/eaf172b3b68ad05c5d42544811518c74228c3453">eaf172b</a>: chore: Cosmetic
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
