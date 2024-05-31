@@ -98,17 +98,17 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
   },
   {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/AlexxIT/GyverLamp/issues/4\">#4</a>: Сервис управления лампой Was: Поддержка нескольких ламп \n- <a href=\"https://github.com/ha0y/xiaomi_miot_raw/issues/144\">#144</a>: Yeelight Wireless Switch S1 - Not work",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-2.png?raw=true"
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/custom-cards/upcoming-media-card/issues/64\">#64</a>: Add \"data:image/png;base64,...\" support for Fanart and Poster",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-3.png?raw=true"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1072 times)\n2. to (used 728 times)\n3. for (used 536 times)\n4. update (used 534 times)\n5. fix (used 446 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1076 times)\n2. to (used 728 times)\n3. for (used 536 times)\n4. update (used 535 times)\n5. fix (used 446 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
