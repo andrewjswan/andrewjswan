@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/960f18238f31b61e0f4e5cf84ce2c881be6e5789\">960f182</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3ca186a76a64f4f9c1edc6849c0131171e5e7c46\">3ca186a</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/33d1d009771a5146c7841cf9841dad1b3b862a24\">33d1d00</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/54c0e78d97db64d7b40dfd429503e07fe3e21a84\">54c0e78</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae\">5e8b819</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ae3fadecb234517d4e8f000fb86c0c0b6dd976dc\">ae3fade</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/7e14eac82c098d002f93a301f3058ffe72b6749b\">7e14eac</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/960f18238f31b61e0f4e5cf84ce2c881be6e5789\">960f182</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3ca186a76a64f4f9c1edc6849c0131171e5e7c46\">3ca186a</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/33d1d009771a5146c7841cf9841dad1b3b862a24\">33d1d00</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/54c0e78d97db64d7b40dfd429503e07fe3e21a84\">54c0e78</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae\">5e8b819</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1076 times)\n2. to (used 734 times)\n3. for (used 536 times)\n4. update (used 535 times)\n5. fix (used 446 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1076 times)\n2. to (used 736 times)\n3. for (used 536 times)\n4. update (used 535 times)\n5. from (used 447 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
