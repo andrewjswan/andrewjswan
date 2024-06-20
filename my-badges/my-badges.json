@@ -31,14 +31,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/7e14eac82c098d002f93a301f3058ffe72b6749b\">7e14eac</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/960f18238f31b61e0f4e5cf84ce2c881be6e5789\">960f182</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3ca186a76a64f4f9c1edc6849c0131171e5e7c46\">3ca186a</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/33d1d009771a5146c7841cf9841dad1b3b862a24\">33d1d00</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/54c0e78d97db64d7b40dfd429503e07fe3e21a84\">54c0e78</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae\">5e8b819</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/9c14bf5b6d0fc2d347ed6766abe7fcf70c2e73ba\">9c14bf5</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/19a06d1f5c87171beee7303cc4dce76bc176195b\">19a06d1</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/9de2acca5709b5318811134a0996f0fd779f7f28\">9de2acc</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/184020a694099043056119f91a8d9c86e632112b\">184020a</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/7e14eac82c098d002f93a301f3058ffe72b6749b\">7e14eac</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/6046adfe3d3af6c5c00100d26b66027add57fe1d\">6046adf</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/9abc188a02ad38529af9e318eb04e7d1831aac90\">9abc188</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/f7b69efe5e5a0bfc0ae19fd5afa41460aeb0319d\">f7b69ef</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/198957bcfb93a3f3112a0487610367089e5a8437\">198957b</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/9abc188a02ad38529af9e318eb04e7d1831aac90\">9abc188</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/48a59c35185cf5fa85e25062f5a2f3422267164b\">48a59c3</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1078 times)\n2. to (used 743 times)\n3. for (used 538 times)\n4. update (used 536 times)\n5. from (used 456 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1084 times)\n2. to (used 750 times)\n3. update (used 545 times)\n4. for (used 542 times)\n5. from (used 468 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/c43b59dda329858cd1967765250e27693f2fdc27\">c43b59d</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/80f7a90c3aa92b637e3eb3f0c36038a3cfba8954\">80f7a90</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/7eb20002498d3c50da61f7b835c5ac3280671b70\">7eb2000</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/c43b59dda329858cd1967765250e27693f2fdc27\">c43b59d</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/b7962a5c5c1bf542ced9012989e33f5f01a3ce3e\">b7962a5</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]

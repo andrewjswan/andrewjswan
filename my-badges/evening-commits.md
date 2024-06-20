@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/9c14bf5b6d0fc2d347ed6766abe7fcf70c2e73ba">9c14bf5</a>
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/19a06d1f5c87171beee7303cc4dce76bc176195b">19a06d1</a>
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/9de2acca5709b5318811134a0996f0fd779f7f28">9de2acc</a>
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/184020a694099043056119f91a8d9c86e632112b">184020a</a>
 - <a href="https://github.com/andrewjswan/snmp2mqtt/commit/7e14eac82c098d002f93a301f3058ffe72b6749b">7e14eac</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/960f18238f31b61e0f4e5cf84ce2c881be6e5789">960f182</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3ca186a76a64f4f9c1edc6849c0131171e5e7c46">3ca186a</a>
-- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/33d1d009771a5146c7841cf9841dad1b3b862a24">33d1d00</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/54c0e78d97db64d7b40dfd429503e07fe3e21a84">54c0e78</a>
-- <a href="https://github.com/andrewjswan/rsshub-addon/commit/5e8b819efe22d74fa3faefade60252c2fb153cae">5e8b819</a>
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/6046adfe3d3af6c5c00100d26b66027add57fe1d">6046adf</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
