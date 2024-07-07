@@ -4,140 +4,140 @@
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
     "id": "abc-commit",
     "tier": 3,
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/abced0ede5ccd9be069a72849da9e181314fd8d4\"><strong>abc</strong>ed0ede5ccd9be069a72849da9e181314fd8d4</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/abc-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd\">1c229da</a>\n- <a href=\"https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e\">2a03652</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.holidays/commit/630f96c740d51cff758bd5536d7aa90c9d70732d\">630f96c</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPE/commit/3473d5386fb39da044c5c9fb1fe2d4c85786307f\">3473d53</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/25e19b578c1c5ddd0c31fa489d823ebcd062b907\">25e19b5</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/45835adfcf51e8025b041fe8acec269756044b9c\">45835ad</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/5e23d9b189400bdd07db0bb17466d9c5ae40dce1\">5e23d9b</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/4214cc674eace98ead2cade3ccf8eb7b2527c260\">4214cc6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/bab3d93dfff694c7a0352c863c13af8a462fccf6\">bab3d93</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/622ccfad3146f5795aab556a59740ca24ec2a6b3\">622ccfa</a>\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/b7dfac32f62a130baab2a90ff63d93541b6551c4\">b7dfac3</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/9c14bf5b6d0fc2d347ed6766abe7fcf70c2e73ba\">9c14bf5</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/19a06d1f5c87171beee7303cc4dce76bc176195b\">19a06d1</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/9de2acca5709b5318811134a0996f0fd779f7f28\">9de2acc</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/184020a694099043056119f91a8d9c86e632112b\">184020a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/198957bcfb93a3f3112a0487610367089e5a8437\">198957b</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/c150e21a49560759497515a1d715e9490815f560\">c150e21</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/9abc188a02ad38529af9e318eb04e7d1831aac90\">9abc188</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/609b3fee69f94e8477b83e0188f6988478cfc923\">609b3fe</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/3637df291d03dab0aa405966c01191b9c14ebeb6\">3637df2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/589ca4913b5ab8eabedc26b968668c62c9356189\">589ca49</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
     "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3dead75c62eb8f8a66d5b5f4937f2cd25b532823\">3<strong>dead</strong>75c62eb8f8a66d5b5f4937f2cd25b532823</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/13305692dead19a8daf36b402409a204666bb61c\">13305692<strong>dead</strong>19a8daf36b402409a204666bb61c</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/dead-commit/dead-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "yeti",
     "tier": 0,
     "desc": "I found the yeti!",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096\">aa3f5f7</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/yeti/yeti.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/yeti.png"
   },
   {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/bf543f9560ff14abb8ac7dda50ff0a1b18d5835f\">bf543f9</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/delorean/delorean.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 7 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/39e117b6e7ce6b8788817dbfbcd56252416d6b2b\">39e117b</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/7b5a25a4bc236330d17e8285a9a0c45b1b3071db\">7b5a25a</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/c5537e14345f33f405454c233ad47314838b1de3\">c5537e1</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/779265e6c85e5e2340db8d4b4d28a7f918bf41fe\">779265e</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/419f611a9558575f6b84a5d624c3de5764db697f\">419f611</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/814a11c686fb8708b311be1a2a3a0e1d13123822\">814a11c</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/bba4bedd2ec1be5b3001b737e40c11bcbcee9de4\">bba4bed</a>: fix ffmpeg build error (azzuro patch)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-6+.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/106\">#106</a>: Mp1 4831 skin engine. minor improvements for skin.properties support",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "old-issue-3",
     "tier": 3,
     "desc": "I closed an issue that was open for 3 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/custom-cards/upcoming-media-card/issues/64\">#64</a>: Add \"data:image/png;base64,...\" support for Fanart and Poster",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/old-issue/old-issue-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
     "body": "My favorite commit message words are:\n\n1. add (used 1088 times)\n2. to (used 761 times)\n3. update (used 551 times)\n4. for (used 549 times)\n5. from (used 478 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n- <a href=\"https://github.com/bramstroker/homeassistant-powercalc/issues/1779\">#1779</a>: Add the ability to create an Energy sensor from an existing Power sensor.\n\n And many more...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/my-badges/my-badges/issues/42\">#42</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32\">9227491</a>: chore: Refactoring Advanced Bitmap mode",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a\">052d5e9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
     "id": "this-is-fine",
@@ -151,20 +151,20 @@
     "tier": 0,
     "desc": "I used only emojis in my commit message.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/5d412ff9252cff84233aab8c24dc035853b62cde\">5d412ff</a>: 💡 💣 👻",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/b9793d2f88e0d03671c96b647040c2b4bc2c9910\">b9793d2</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/7eb20002498d3c50da61f7b835c5ac3280671b70\">7eb2000</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/c43b59dda329858cd1967765250e27693f2fdc27\">c43b59d</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/cb17c164e0c0a5f20d4e1b6eb795f2528b1b61ec\">cb17c16</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/e33f552d521afd1a9050c65fc9fef69a742c4de2\">e33f552</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/5f56dce3446d17f78d23474ba3cb3c3cba56583d\">5f56dce</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cosmetic-commit/cosmetic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/2895e906c4e82ae12031b1217b1728c2a210051a\">2895e90</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/24c06338b70e97e6ea018e9cea5f52bc49485ff2\">24c0633</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/f058b1f2d94b9133621ffec8e9609cd5a583bfa6\">f058b1f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/e366df6cc5735cf1218cbec775828c6e26188175\">e366df6</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/ed9b82f3f8d1511f15a3364d3f62a9c040b3d96a\">ed9b82f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-tunein/commit/7682d3f76725ae5f2b60344de943ad29c1c05faa\">7682d3f</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/epic-commit/epic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
