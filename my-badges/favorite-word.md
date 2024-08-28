@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. add (used 1094 times)
-2. to (used 787 times)
-3. update (used 585 times)
+2. to (used 791 times)
+3. update (used 586 times)
 4. for (used 554 times)
-5. from (used 522 times)
+5. from (used 528 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
