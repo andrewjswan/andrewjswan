@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/e06c59ea45b2b87d3767a906dedc63ab9db56b87\">e06c59e</a>\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/2f3e86d15e12e64a57d48d03285cb0520f842f34\">2f3e86d</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/3ca9fa34b01ceb5265c8a62cac4061bdb79e0b15\">3ca9fa3</a>\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/572a9b2e15a168147fd12a3cfb761ea176574fb6\">572a9b2</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/26645349b2a673f4b1bcbccdb7d42c40902ba6c0\">2664534</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/e8a23e47206e2329ea89929cc3e1a381965eeba2\">e8a23e4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/73ba03e9484b9533380d3d836f96169759e8de6a\">73ba03e</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/8d0b00dc61530b1c55967e860ad25cc5fb77f27d\">8d0b00d</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e5982ac35b2c18564609463fcdd78e4688ca3b74\">e5982ac</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/c60122c4d16b30d4843c62811dfd9e053c278ad9\">c60122c</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/6e7b8b71b324f0dc124fccab3e7e6ea20c2b3293\">6e7b8b7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/7b2c60093ddf61b79a85a8c3078d2c8aecb81548\">7b2c600</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1116 times)\n2. to (used 819 times)\n3. update (used 632 times)\n4. from (used 567 times)\n5. for (used 558 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1127 times)\n2. to (used 829 times)\n3. update (used 637 times)\n4. from (used 571 times)\n5. for (used 559 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
