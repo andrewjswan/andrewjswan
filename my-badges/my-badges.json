@@ -51,8 +51,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/3dead75c62eb8f8a66d5b5f4937f2cd25b532823\">3<strong>dead</strong>75c62eb8f8a66d5b5f4937f2cd25b532823</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/13305692dead19a8daf36b402409a204666bb61c\">13305692<strong>dead</strong>19a8daf36b402409a204666bb61c</a>",
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/13305692dead19a8daf36b402409a204666bb61c\">13305692<strong>dead</strong>19a8daf36b402409a204666bb61c</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/bf543f9560ff14abb8ac7dda50ff0a1b18d5835f\">bf543f9</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1141 times)\n2. to (used 936 times)\n3. update (used 731 times)\n4. from (used 700 times)\n5. for (used 567 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 975 times)\n2. to (used 864 times)\n3. update (used 681 times)\n4. from (used 654 times)\n5. merge (used 475 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/2895e906c4e82ae12031b1217b1728c2a210051a\">2895e90</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/24c06338b70e97e6ea018e9cea5f52bc49485ff2\">24c0633</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/f058b1f2d94b9133621ffec8e9609cd5a583bfa6\">f058b1f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1\">dc2fed8</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/e366df6cc5735cf1218cbec775828c6e26188175\">e366df6</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/ed9b82f3f8d1511f15a3364d3f62a9c040b3d96a\">ed9b82f</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-tunein/commit/7682d3f76725ae5f2b60344de943ad29c1c05faa\">7682d3f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {

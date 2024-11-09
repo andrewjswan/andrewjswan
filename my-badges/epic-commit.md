@@ -11,13 +11,6 @@ Commits:
 - <a href="https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7">6515391</a>
 - <a href="https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a">674edff</a>
 - <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723">e74235f</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/2895e906c4e82ae12031b1217b1728c2a210051a">2895e90</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/24c06338b70e97e6ea018e9cea5f52bc49485ff2">24c0633</a>
-- <a href="https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/f058b1f2d94b9133621ffec8e9609cd5a583bfa6">f058b1f</a>
-- <a href="https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/dc2fed874b87319e5cbe1171b9e5d8856e8fdfd1">dc2fed8</a>
-- <a href="https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/e366df6cc5735cf1218cbec775828c6e26188175">e366df6</a>
-- <a href="https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/ed9b82f3f8d1511f15a3364d3f62a9c040b3d96a">ed9b82f</a>
-- <a href="https://github.com/andrewjswan/mediaportal-tunein/commit/7682d3f76725ae5f2b60344de943ad29c1c05faa">7682d3f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
