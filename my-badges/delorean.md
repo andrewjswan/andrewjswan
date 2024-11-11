@@ -6,6 +6,7 @@ Commits:
 
 - <a href="https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff">dbe64a4</a>
 - <a href="https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd">505fe5a</a>
+- <a href="https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8">155c6c4</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
