@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849\">b52aab6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f269eee190e14534e0aaa2138098ee5b29534149\">f269eee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dfa3c3ac9930a7b32f004628391be99347714ce2\">dfa3c3a</a>\n- <a href=\"https://github.com/andrewjswan/MPE/commit/949048795c0eb16774f474aa41e9848d28e6a10b\">9490487</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/9e15fa89454afb826513e4586eba538d1ddfa203\">9e15fa8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849\">b52aab6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f269eee190e14534e0aaa2138098ee5b29534149\">f269eee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dfa3c3ac9930a7b32f004628391be99347714ce2\">dfa3c3a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 933 times)\n2. to (used 902 times)\n3. from (used 695 times)\n4. update (used 674 times)\n5. merge (used 490 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 993 times)\n2. to (used 919 times)\n3. from (used 714 times)\n4. update (used 692 times)\n5. merge (used 499 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
