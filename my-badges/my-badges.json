@@ -42,6 +42,13 @@
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/7e0a4ad0dd76f65f58c35b2cc206cb7c2250cf50\">7e0a4ad</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/296bdb807aae9f685d5c88881c7f0af568c84ca6\">296bdb8</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/e11a3fd9fc83a12321f095507783306bdefe7c94\">e11a3fd</a>\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/56005b39b3ecf00d7cc6ecdc6c2416237f64afd8\">56005b3</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dac47ad4684475427d51904bed86c3dfef186efe\">dac47ad</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
@@ -173,12 +180,5 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/7e0a4ad0dd76f65f58c35b2cc206cb7c2250cf50\">7e0a4ad</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/296bdb807aae9f685d5c88881c7f0af568c84ca6\">296bdb8</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/e11a3fd9fc83a12321f095507783306bdefe7c94\">e11a3fd</a>\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/56005b39b3ecf00d7cc6ecdc6c2416237f64afd8\">56005b3</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dac47ad4684475427d51904bed86c3dfef186efe\">dac47ad</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
