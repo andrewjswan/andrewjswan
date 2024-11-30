@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/9e15fa89454afb826513e4586eba538d1ddfa203\">9e15fa8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849\">b52aab6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f269eee190e14534e0aaa2138098ee5b29534149\">f269eee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dfa3c3ac9930a7b32f004628391be99347714ce2\">dfa3c3a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/91d344394ab3a2a56da1a3bc6e46e5649049a60f\">91d3443</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/d4d4e28681fa9ceea6bc70d1888e15f2bd656b9d\">d4d4e28</a>\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/9e15fa89454afb826513e4586eba538d1ddfa203\">9e15fa8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849\">b52aab6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 996 times)\n2. to (used 922 times)\n3. from (used 714 times)\n4. update (used 695 times)\n5. merge (used 499 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 996 times)\n2. to (used 925 times)\n3. from (used 716 times)\n4. update (used 695 times)\n5. merge (used 501 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
