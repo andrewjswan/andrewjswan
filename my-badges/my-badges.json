@@ -66,7 +66,7 @@
     "id": "yeti",
     "tier": 0,
     "desc": "I found the yeti!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/aa3f5f7cbae9afa639abd3dc3c54db8990419096\">aa3f5f7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>",
     "image": "https://my-badges.github.io/my-badges/yeti.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/f467f1c18640791dad7228db18ee56088fac8a26\">f467f1c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/0a32ae2a24b1f060e5a6d41794ad629faaaa9349\">0a32ae2</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -105,24 +105,17 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/custom-cards/upcoming-media-card/issues/64\">#64</a>: Add \"data:image/png;base64,...\" support for Fanart and Poster",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 996 times)\n2. to (used 925 times)\n3. from (used 716 times)\n4. update (used 695 times)\n5. merge (used 501 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 996 times)\n2. to (used 935 times)\n3. from (used 731 times)\n4. update (used 695 times)\n5. merge (used 506 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/denysdovhan/ha-lun-misto-air/issues/6\">#6</a>: HACS Badge\n- <a href=\"https://github.com/my-badges/my-badges/issues/72\">#72</a>: Failed to load pull requests\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/denysdovhan/ha-lun-misto-air/issues/6\">#6</a>: HACS Badge\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -136,7 +129,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/92274919f99d383c30a9a047ee8608cae37acb32\">9227491</a>: chore: Refactoring Advanced Bitmap mode",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>: chore: Cosmetic",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -145,13 +138,6 @@
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a\">052d5e9</a>",
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
-  },
-  {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/257\">#257</a>: MP1.33-Pre: Deploytools French language update",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   },
   {
     "id": "emoji-only-commit",
@@ -180,5 +166,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/issues/92\">👍</a>\n* <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/85\">👍</a>\n* <a href=\"https://github.com/esphome/esphome/pull/2854#issuecomment-986655218\">🚀</a>\n* <a href=\"https://github.com/bramstroker/homeassistant-powercalc/issues/1741#issuecomment-1651835452\">😄</a>\n* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/issues/89#issuecomment-1736726427\">😕</a>\n* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/pull/94#issuecomment-1749247354\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
