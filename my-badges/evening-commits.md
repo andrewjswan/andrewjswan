@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/esphome-config/commit/b81241bcfb930f7d36bbebba81661778bcef6931">b81241b</a>
+- <a href="https://github.com/andrewjswan/esphome-config/commit/458a5dc94bd06cc338d56591a6ce8510fca5f4e8">458a5dc</a>
+- <a href="https://github.com/andrewjswan/esphome-config/commit/720f04e7a66840d8fa28c7f5d6f4f7614243a4fb">720f04e</a>
+- <a href="https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f">3d96419</a>
 - <a href="https://github.com/andrewjswan/blackout-addons/commit/91d344394ab3a2a56da1a3bc6e46e5649049a60f">91d3443</a>
 - <a href="https://github.com/andrewjswan/blackout-addons/commit/d4d4e28681fa9ceea6bc70d1888e15f2bd656b9d">d4d4e28</a>
-- <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/9e15fa89454afb826513e4586eba538d1ddfa203">9e15fa8</a>
-- <a href="https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849">b52aab6</a>
-- <a href="https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff">dbe64a4</a>
-- <a href="https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd">505fe5a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
