@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/b81241bcfb930f7d36bbebba81661778bcef6931\">b81241b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/458a5dc94bd06cc338d56591a6ce8510fca5f4e8\">458a5dc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/720f04e7a66840d8fa28c7f5d6f4f7614243a4fb\">720f04e</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/91d344394ab3a2a56da1a3bc6e46e5649049a60f\">91d3443</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/d4d4e28681fa9ceea6bc70d1888e15f2bd656b9d\">d4d4e28</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/88969c0e54a920fb9bbe6228ddde4261b2e2e63b\">88969c0</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/9dd2320e3b0f5acaaa665c6378087325ce6007c7\">9dd2320</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/b81241bcfb930f7d36bbebba81661778bcef6931\">b81241b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/458a5dc94bd06cc338d56591a6ce8510fca5f4e8\">458a5dc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/720f04e7a66840d8fa28c7f5d6f4f7614243a4fb\">720f04e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1008 times)\n2. update (used 714 times)\n3. merge (used 516 times)\n4. fix (used 407 times)\n5. bump (used 372 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1014 times)\n2. update (used 714 times)\n3. merge (used 518 times)\n4. fix (used 407 times)\n5. bump (used 372 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/61c5948444288e0828be5a6bd0d7457a0757ec8b\">61c5948</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/7f3d6acb6b5f6b1d5a49a2ca07336c40bcd126b1\">7f3d6ac</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/f39e7d7eafe54fa6cae973c1544c262a9096c128\">f39e7d7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/af301b5e2d8da9e596709a86324c8118048df316\">af301b5</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/b52aab675ad357bf5610c27e751c93da9cd56849\">b52aab6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/61c5948444288e0828be5a6bd0d7457a0757ec8b\">61c5948</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/7f3d6acb6b5f6b1d5a49a2ca07336c40bcd126b1\">7f3d6ac</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/f39e7d7eafe54fa6cae973c1544c262a9096c128\">f39e7d7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/af301b5e2d8da9e596709a86324c8118048df316\">af301b5</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
