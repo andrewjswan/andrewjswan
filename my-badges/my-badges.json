@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1014 times)\n2. update (used 714 times)\n3. merge (used 518 times)\n4. fix (used 407 times)\n5. bump (used 372 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1023 times)\n2. update (used 715 times)\n3. merge (used 520 times)\n4. fix (used 409 times)\n5. bump (used 372 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/61c5948444288e0828be5a6bd0d7457a0757ec8b\">61c5948</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/7f3d6acb6b5f6b1d5a49a2ca07336c40bcd126b1\">7f3d6ac</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/f39e7d7eafe54fa6cae973c1544c262a9096c128\">f39e7d7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/af301b5e2d8da9e596709a86324c8118048df316\">af301b5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/7de5bb7bd5725ee6e98e2a1b247dd81a7a7c072a\">7de5bb7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/34527ebdd38bd7646b4d0e224dcc41ca7dad454b\">34527eb</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/61c5948444288e0828be5a6bd0d7457a0757ec8b\">61c5948</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/7f3d6acb6b5f6b1d5a49a2ca07336c40bcd126b1\">7f3d6ac</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
