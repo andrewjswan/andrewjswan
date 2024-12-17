@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/88969c0e54a920fb9bbe6228ddde4261b2e2e63b\">88969c0</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/9dd2320e3b0f5acaaa665c6378087325ce6007c7\">9dd2320</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/b81241bcfb930f7d36bbebba81661778bcef6931\">b81241b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/458a5dc94bd06cc338d56591a6ce8510fca5f4e8\">458a5dc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/720f04e7a66840d8fa28c7f5d6f4f7614243a4fb\">720f04e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/f1d4cf33232e16a1f0badade329233c255777e4c\">f1d4cf3</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/88969c0e54a920fb9bbe6228ddde4261b2e2e63b\">88969c0</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/9dd2320e3b0f5acaaa665c6378087325ce6007c7\">9dd2320</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/b81241bcfb930f7d36bbebba81661778bcef6931\">b81241b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/458a5dc94bd06cc338d56591a6ce8510fca5f4e8\">458a5dc</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1023 times)\n2. update (used 718 times)\n3. merge (used 521 times)\n4. fix (used 409 times)\n5. bump (used 372 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1023 times)\n2. update (used 719 times)\n3. merge (used 526 times)\n4. fix (used 409 times)\n5. bump (used 382 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
