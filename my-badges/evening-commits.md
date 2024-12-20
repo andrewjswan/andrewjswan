@@ -9,7 +9,7 @@ Commits:
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/07fa8a5fb435349f8b1fc6e5574cadab2a3bc6c6">07fa8a5</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/a6f963d6525948844d99cf87a3ce5de86e920bda">a6f963d</a>
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/commit/f1d4cf33232e16a1f0badade329233c255777e4c">f1d4cf3</a>
-- <a href="https://github.com/andrewjswan/esphome-config/commit/88969c0e54a920fb9bbe6228ddde4261b2e2e63b">88969c0</a>
+- <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/c8e2a44f369878a5d1bc7e51b159c2db57ec0bce">c8e2a44</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
