@@ -24,7 +24,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPE/commit/3473d5386fb39da044c5c9fb1fe2d4c85786307f\">3473d53</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/25e19b578c1c5ddd0c31fa489d823ebcd062b907\">25e19b5</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/45835adfcf51e8025b041fe8acec269756044b9c\">45835ad</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/5e23d9b189400bdd07db0bb17466d9c5ae40dce1\">5e23d9b</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/4214cc674eace98ead2cade3ccf8eb7b2527c260\">4214cc6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/bab3d93dfff694c7a0352c863c13af8a462fccf6\">bab3d93</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPE/commit/3473d5386fb39da044c5c9fb1fe2d4c85786307f\">3473d53</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/25e19b578c1c5ddd0c31fa489d823ebcd062b907\">25e19b5</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/45835adfcf51e8025b041fe8acec269756044b9c\">45835ad</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/5e23d9b189400bdd07db0bb17466d9c5ae40dce1\">5e23d9b</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/4214cc674eace98ead2cade3ccf8eb7b2527c260\">4214cc6</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d7f69eedd57b961ca7f6eaa4c8f3c506927fd6cd\">d7f69ee</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -70,13 +70,6 @@
     "image": "https://my-badges.github.io/my-badges/yeti.png"
   },
   {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -108,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1053 times)\n2. update (used 745 times)\n3. merge (used 549 times)\n4. fix (used 421 times)\n5. bump (used 406 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 858 times)\n2. update (used 686 times)\n3. merge (used 542 times)\n4. bump (used 402 times)\n5. request (used 388 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +143,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/e336cbe3881079c19c56c5a87675508657317a61\">e336cbe</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/7de5bb7bd5725ee6e98e2a1b247dd81a7a7c072a\">7de5bb7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/34527ebdd38bd7646b4d0e224dcc41ca7dad454b\">34527eb</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/3d96419c7ffc3a433d12799c32bb212456e3486f\">3d96419</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/61c5948444288e0828be5a6bd0d7457a0757ec8b\">61c5948</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/ceddf53fbf776c7809dd19b2636f7431a466105b\">ceddf53</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cd6087d405d33b2aae499e0644020e913c2120a0\">cd6087d</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/e336cbe3881079c19c56c5a87675508657317a61\">e336cbe</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/7de5bb7bd5725ee6e98e2a1b247dd81a7a7c072a\">7de5bb7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/34527ebdd38bd7646b4d0e224dcc41ca7dad454b\">34527eb</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/15822a73f3c699c15518321b56a2ec7b3b6d39b2\">15822a7</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
