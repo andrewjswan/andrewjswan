@@ -9,7 +9,7 @@ Commits:
 - <a href="https://github.com/andrewjswan/MPExtended/commit/45835adfcf51e8025b041fe8acec269756044b9c">45835ad</a>
 - <a href="https://github.com/andrewjswan/MPExtended/commit/5e23d9b189400bdd07db0bb17466d9c5ae40dce1">5e23d9b</a>
 - <a href="https://github.com/andrewjswan/MPExtended/commit/4214cc674eace98ead2cade3ccf8eb7b2527c260">4214cc6</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d7f69eedd57b961ca7f6eaa4c8f3c506927fd6cd">d7f69ee</a>
+- <a href="https://github.com/andrewjswan/mvcentral/commit/bab3d93dfff694c7a0352c863c13af8a462fccf6">bab3d93</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
