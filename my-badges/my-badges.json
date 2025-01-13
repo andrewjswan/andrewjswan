@@ -70,6 +70,13 @@
     "image": "https://my-badges.github.io/my-badges/yeti.png"
   },
   {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -180,12 +187,5 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/andrewjswan/andrewjswan\">andrewjswan/andrewjswan</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/dbe64a45e8a608054380575efc5fe16c1f3bd0ff\">dbe64a4</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/505fe5ac3001cc85917f093ee1dfebce305972cd\">505fe5a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/155c6c4f7aa07a1038c99ab278430f6382936aa8\">155c6c4</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
