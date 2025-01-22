@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1072 times)\n2. update (used 755 times)\n3. merge (used 574 times)\n4. bump (used 438 times)\n5. request (used 410 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1072 times)\n2. update (used 755 times)\n3. merge (used 575 times)\n4. bump (used 438 times)\n5. fix (used 424 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
