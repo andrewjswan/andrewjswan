@@ -161,6 +161,13 @@
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9262430b0dd651ebe5229c1c37610bd13e31bc\">1a92624</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan/commit/de8aac7aef73f57b540f67569503143f99d1236c\">de8aac7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b89d7d91ddf9e170d495eaa0c2524ba79a3a0e79\">b89d7d9</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/deec31704ae2556c81952ee40976076e2c92907d\">deec317</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/345f914bedc0c27d4a2d24cb6db4e26d9034bacf\">345f914</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
@@ -173,13 +180,6 @@
     "desc": "I liked my own comment so much that I upvoted it.",
     "body": "* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/issues/92\">👍</a>\n* <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/85\">👍</a>\n* <a href=\"https://github.com/esphome/esphome/pull/2854#issuecomment-986655218\">🚀</a>\n* <a href=\"https://github.com/bramstroker/homeassistant-powercalc/issues/1741#issuecomment-1651835452\">😄</a>\n* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/issues/89#issuecomment-1736726427\">😕</a>\n* <a href=\"https://github.com/lubeda/EspHoMaTriXv2/pull/94#issuecomment-1749247354\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9262430b0dd651ebe5229c1c37610bd13e31bc\">1a92624</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan/commit/de8aac7aef73f57b540f67569503143f99d1236c\">de8aac7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b89d7d91ddf9e170d495eaa0c2524ba79a3a0e79\">b89d7d9</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/deec31704ae2556c81952ee40976076e2c92907d\">deec317</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/345f914bedc0c27d4a2d24cb6db4e26d9034bacf\">345f914</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
   },
   {
     "id": "self-star",
