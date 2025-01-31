@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/esphome-config/commit/716866ae81bc05ef4f6ad4ee90d08e94b35935a3">716866a</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/ac1af04d2952cfd32988098d33b996460aa0c188">ac1af04</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/106d4bbe232f1d5a71896064622a919b6180f454">106d4bb</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/145cfa9352317122e5560106afd38e484dad713f">145cfa9</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/02975ce42793ad5fc0c889d39c900cbc540a3e0e">02975ce</a>
 - <a href="https://github.com/andrewjswan/esphome-components/commit/ceddf53fbf776c7809dd19b2636f7431a466105b">ceddf53</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/cd6087d405d33b2aae499e0644020e913c2120a0">cd6087d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
