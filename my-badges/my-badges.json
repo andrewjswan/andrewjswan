@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1090 times)\n2. update (used 772 times)\n3. merge (used 608 times)\n4. bump (used 476 times)\n5. request (used 445 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1090 times)\n2. update (used 772 times)\n3. merge (used 618 times)\n4. bump (used 494 times)\n5. request (used 454 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -156,8 +156,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/b4e80bc7a75216839f4232c5595942acafe7991a\">b4e80bc7a75216839f4232c5595942a<strong>cafe</strong>7991a</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
