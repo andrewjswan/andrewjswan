@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1090 times)\n2. update (used 772 times)\n3. merge (used 618 times)\n4. bump (used 494 times)\n5. request (used 454 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1091 times)\n2. update (used 772 times)\n3. merge (used 618 times)\n4. bump (used 494 times)\n5. request (used 454 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/c8e2a44f369878a5d1bc7e51b159c2db57ec0bce\">c8e2a44</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/faa7cfa3e3163f063614ec8339fc9004e1e684e4\">faa7cfa</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/49dbba90c7df26ab5aa4e4c1a5969d4315aaac96\">49dbba9</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/25ab92665f61ed38105f16a984b323afce8c33d2\">25ab926</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/ca4ccfe8832ab0e04de79d1924ca3cd93d54c4bf\">ca4ccfe</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/860c12ac1aa664181977f8820b313a91d0d4ca5b\">860c12a</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/fd7f2779f056a397fde8c2b77d24c513b8da78f8\">fd7f277</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/fedec07078b3f39ca80fbf47b15c08f447b77b22\">fedec07</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/1ebe65a22ecfb9184028f066d469e2f914833c58\">1ebe65a</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/6b723307a76601e0ca579836df0ca6583be18012\">6b72330</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/2e2c16e857f9cf42132d63336614f6a13b632866\">2e2c16e</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/d671c9a31344b20e4725ca7c328fc5a16f1b759c\">d671c9a</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/7937e5753acd8a6a50d456088aa341638584ac38\">7937e57</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
