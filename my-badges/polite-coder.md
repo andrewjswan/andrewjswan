@@ -5,10 +5,10 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/denysdovhan/ha-lun-misto-air/issues/6">#6</a>: HACS Badge
-- <a href="https://github.com/home-assistant/core/issues/139826">#139826</a>: Entity sensor (<class 'homeassistant.components.sql.sensor.SQLSensor'>) is using native unit of measurement 'None' which is not a valid unit for the device class ('temperature')...
 - <a href="https://github.com/esphome/feature-requests/issues/3081">#3081</a>: Update FastLed library to latest / actual version
 - <a href="https://github.com/home-assistant/core/issues/42758">#42758</a>: Gree integration - AC not found
 - <a href="https://github.com/home-assistant/operating-system/issues/1389">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory
+- <a href="https://github.com/tomvanswam/compass-card/issues/338">#338</a>: Typo in Russian translation
 
  And many more...
 
