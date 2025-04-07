@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/274">#274</a>: MP1.33.Final: Bump version number and set DEBUG level to INFO
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 
 
