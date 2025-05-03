@@ -4,6 +4,8 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/283">#283</a>: MP1-5202: Fix MediaInfoService multiple request of the same file from different threads
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/286">#286</a>: MP1-5205: Install x64 version of System.Data.SQLite.dll in TvServer
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 
 
