@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1119 times)\n2. update (used 874 times)\n3. merge (used 709 times)\n4. bump (used 568 times)\n5. request (used 536 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1119 times)\n2. update (used 874 times)\n3. merge (used 715 times)\n4. bump (used 580 times)\n5. request (used 542 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/287\">#287</a>: MP1.34-Pre: DefaultWideHD skin and German language update",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
