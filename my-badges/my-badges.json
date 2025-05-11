@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/291\">#291</a>: MP1-5209: Force EVR instead of MadVR in some Cases",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
