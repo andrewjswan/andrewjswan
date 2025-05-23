@@ -4,9 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/esphome/commit/1466aa7703988474cf9f889e378078fd1456962d">1466aa7</a>
+- <a href="https://github.com/andrewjswan/esphome/commit/e8a3de26424e2431747fea387ff992009e76b962">e8a3de2</a>
+- <a href="https://github.com/andrewjswan/esphome-docs/commit/febe8cc52988247e1d266e41ac7d15741331bef4">febe8cc</a>
+- <a href="https://github.com/andrewjswan/esphome/commit/248dbd32a576364c1803bbc84ec2398a997744da">248dbd3</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd">1c229da</a>
 - <a href="https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e">2a03652</a>
-- <a href="https://github.com/andrewjswan/mediaportal.images.holidays/commit/630f96c740d51cff758bd5536d7aa90c9d70732d">630f96c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

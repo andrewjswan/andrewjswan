@@ -3,6 +3,7 @@
 <br><br>
 
 - <a href="https://github.com/my-badges/my-badges/issues/42">#42</a>
+- <a href="https://github.com/andrewjswan/esphome-components/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
