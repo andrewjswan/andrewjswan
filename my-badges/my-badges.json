@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 882 times)\n3. merge (used 720 times)\n4. bump (used 591 times)\n5. request (used 547 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 883 times)\n3. merge (used 720 times)\n4. bump (used 591 times)\n5. request (used 547 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/302\">#302</a>: MP1-5215: Add MySQL.Interceptor and Read TV Server dependencies in SetupTV\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {

@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/302">#302</a>: MP1-5215: Add MySQL.Interceptor and Read TV Server dependencies in SetupTV
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 
 
