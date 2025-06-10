@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 884 times)\n3. merge (used 726 times)\n4. bump (used 604 times)\n5. request (used 553 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 884 times)\n3. merge (used 728 times)\n4. bump (used 608 times)\n5. request (used 555 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/304\">#304</a>: MP1-5216: Don't make queries if the SQLite database is not open\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {

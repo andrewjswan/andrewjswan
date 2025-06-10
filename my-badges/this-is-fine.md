@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/304">#304</a>: MP1-5216: Don't make queries if the SQLite database is not open
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 
 
