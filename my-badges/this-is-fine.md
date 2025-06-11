@@ -4,8 +4,8 @@
 
 Pull requests:
 
-- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/304">#304</a>: MP1-5216: Don't make queries if the SQLite database is not open
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
+- <a href="https://github.com/andrewjswan/mediaportal-grabber-test/pull/2">#2</a>: Bump Windows to Windows Server 2022
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

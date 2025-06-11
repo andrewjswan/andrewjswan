@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/esphome-update-addon/commit/c855a25043f12bfd3de1f0e5be3afea8247ddfac">c855a25</a>
-- <a href="https://github.com/andrewjswan/snmp2mqtt-addon/commit/5d11d97ce99a06d190f8fa99acc292ad309aeecf">5d11d97</a>
-- <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/8a7f1fcbe083d493fe777da9e42cc20730a9e943">8a7f1fc</a>
-- <a href="https://github.com/andrewjswan/esphome-components/commit/f7ea8534ad3c7a52752946db65e2d97a1549d716">f7ea853</a>
-- <a href="https://github.com/andrewjswan/esphome-components/commit/8f888c85f7214009402d7404b07f274221d4ab3f">8f888c8</a>
-- <a href="https://github.com/andrewjswan/esphome-components/commit/74c565c5deef90b99db3452a0b1b453c6a8d4ea8">74c565c</a>
+- <a href="https://github.com/andrewjswan/mediaportal-grabber-test/commit/259c3db2db2a7ec9f4f4af2f38ff76d8e7fbdfcf">259c3db</a>
+- <a href="https://github.com/andrewjswan/mediaportal-grabber-test/commit/c8e5027152d5511636de4a85cbb970961bff2849">c8e5027</a>
+- <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/d4d898ecbd1d6438235084cfa4fc4f8202edded0">d4d898e</a>
+- <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/491b9b8acb3af73deca6dc1254ccf539835f2ae7">491b9b8</a>
+- <a href="https://github.com/andrewjswan/mediaportal.images.weather/commit/757507597c767f96f365859dc178c81d3eeca651">7575075</a>
+- <a href="https://github.com/andrewjswan/mediaportal.images.studios/commit/560faa783367a354e1b1b4480f423de25069c278">560faa7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
