@@ -108,14 +108,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 884 times)\n3. merge (used 741 times)\n4. bump (used 647 times)\n5. request (used 568 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1122 times)\n2. update (used 885 times)\n3. merge (used 745 times)\n4. bump (used 653 times)\n5. request (used 570 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/denysdovhan/ha-lun-misto-air/issues/6\">#6</a>: HACS Badge\n- <a href=\"https://github.com/esphome/feature-requests/issues/3081\">#3081</a>: Update FastLed library to latest / actual version\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/denysdovhan/ha-lun-misto-air/issues/6\">#6</a>: HACS Badge\n- <a href=\"https://github.com/home-assistant/core/issues/42758\">#42758</a>: Gree integration - AC not found\n- <a href=\"https://github.com/home-assistant/operating-system/issues/1389\">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory\n- <a href=\"https://github.com/tomvanswam/compass-card/issues/338\">#338</a>: Typo in Russian translation\n- <a href=\"https://github.com/esphome/feature-requests/issues/1230\">#1230</a>: Support Yeelight Wireless Switch S1 - YLAI003\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE\n- <a href=\"https://github.com/andrewjswan/mediaportal-grabber-test/pull/2\">#2</a>: Bump Windows to Windows Server 2022",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
