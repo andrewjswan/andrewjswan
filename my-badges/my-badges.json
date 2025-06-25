@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/121\">#121</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1125 times)\n2. update (used 885 times)\n3. merge (used 753 times)\n4. bump (used 669 times)\n5. request (used 576 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1125 times)\n2. update (used 885 times)\n3. merge (used 754 times)\n4. bump (used 670 times)\n5. request (used 576 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -201,5 +201,19 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/9c251dbbfddcbcbbd89d046e41e950a459c4b16f\">9c251db</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/ae2c1b2059f2901831603148907afcd948e0f1cb\">ae2c1b2</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/c8e2a44f369878a5d1bc7e51b159c2db57ec0bce\">c8e2a44</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/faa7cfa3e3163f063614ec8339fc9004e1e684e4\">faa7cfa</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/49dbba90c7df26ab5aa4e4c1a5969d4315aaac96\">49dbba9</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/25ab92665f61ed38105f16a984b323afce8c33d2\">25ab926</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/ca4ccfe8832ab0e04de79d1924ca3cd93d54c4bf\">ca4ccfe</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/860c12ac1aa664181977f8820b313a91d0d4ca5b\">860c12a</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/fd7f2779f056a397fde8c2b77d24c513b8da78f8\">fd7f277</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/fedec07078b3f39ca80fbf47b15c08f447b77b22\">fedec07</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/1ebe65a22ecfb9184028f066d469e2f914833c58\">1ebe65a</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/6b723307a76601e0ca579836df0ca6583be18012\">6b72330</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/2e2c16e857f9cf42132d63336614f6a13b632866\">2e2c16e</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/1e4042cfd6d020c6d6a235bbad3c5466792ebce8\">1e4042c</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/d590901faf53963a81866b70b5bf5820bfabf98b\">d590901</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/ff2598a9b40f03a392bac1864e4b336b24adccc7\">ff2598a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/881f18e60f4cd7b2399cccad113eeb9010565d86\">881f18e</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
   }
 ]
