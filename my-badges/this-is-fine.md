@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
+- <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
