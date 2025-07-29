@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/8ff42babb60868645dd4f33a5c23d217fff99c65\">8ff42ba</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/3fac02862279d87ab857e2d3cbfcd078fccc79c2\">3fac028</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/6c79d49db65f78334927cfe1fd9b220af7e478d5\">6c79d49</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/5da965de2ef7edaacd75424e10d6c0f960adcd4d\">5da965d</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/45b9b01d421239c0422fdc7d6f9b5725b4c21c7e\">45b9b01</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/f526e26f2c7ef5cbf0b71afacd1b757ed62e92dd\">f526e26</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/actions/commit/dd2e887623f4476b12c722cbfacf015b2b327a6e\">dd2e887</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/8ff42babb60868645dd4f33a5c23d217fff99c65\">8ff42ba</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/3fac02862279d87ab857e2d3cbfcd078fccc79c2\">3fac028</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/6c79d49db65f78334927cfe1fd9b220af7e478d5\">6c79d49</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/5da965de2ef7edaacd75424e10d6c0f960adcd4d\">5da965d</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/45b9b01d421239c0422fdc7d6f9b5725b4c21c7e\">45b9b01</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1157 times)\n2. update (used 933 times)\n3. merge (used 804 times)\n4. bump (used 706 times)\n5. request (used 624 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1157 times)\n2. update (used 933 times)\n3. merge (used 805 times)\n4. bump (used 708 times)\n5. request (used 625 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/pull/42\">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/MediaPortal/MediaPortal-1/pull/319\">#319</a>: MP1-5220: Change the VideorRenderer without leaving MediaPortal\n- <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13\">#13</a>: Add artifact description, Update year in LICENSE\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/pull/42\">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
