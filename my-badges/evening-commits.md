@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/my-badges/commit/86a17856b8b1b40a31ca00413307f6c888130295">86a1785</a>
+- <a href="https://github.com/andrewjswan/my-badges/commit/e9f79a378133cd7a9e82b6858d4390f52e6df6d3">e9f79a3</a>
+- <a href="https://github.com/andrewjswan/esphome-update-addon/commit/bba32a96d43a6b32f86cca28d5605ff46afbd80a">bba32a9</a>
 - <a href="https://github.com/andrewjswan/actions/commit/127c97271494ee87efbc7dd5c031ff48ddc53e6c">127c972</a>
 - <a href="https://github.com/andrewjswan/pixel-clock/commit/595ea221fd081601f3fcfb172898258c9ea3d75e">595ea22</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/1b0a33c44753fe16ea6ab87d1b259d66386d38be">1b0a33c</a>
-- <a href="https://github.com/andrewjswan/blackout-addons/commit/6a7e8ebcc08cfe95606ab70b2c2f1fea31b7f5b8">6a7e8eb</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/3751f8b8b73bb86638992b1d21d41392b25b97dc">3751f8b</a>
-- <a href="https://github.com/andrewjswan/snmp2mqtt/commit/480bc30ccd7e1262c751540063e3ebc3f4ddbd21">480bc30</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

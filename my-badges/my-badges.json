@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/121\">#121</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>: favorite-word: More than 1 letter\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>: 51: Morning commit time\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>: 51: Add sleepy-coder and Expand Morning to 8am\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>: sleepy-coder Released\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>: Delorean badge rework\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>: Delorean the list of commits has been increased\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>: Spooky Commit badge (Only Halloween for Now)\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>: Add: Cosmetic commit badge\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>: Cosmetic-commit badge update\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>: Change regex for `ignore conventional commit`\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>: Removed unnecessary prefixes to match Conventional Commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>: On Friday The 13th, They Began To Commit, One… By One…\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>: Cosmetic: Normalize Friday the 13th Badge Size\n- <a href=\"https://github.com/my-badges/my-badges/pull/121\">#121</a>: Summer / Winter Solstice commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/123\">#123</a>: Add Title to MyBadges Contributor PRs",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/actions/commit/127c97271494ee87efbc7dd5c031ff48ddc53e6c\">127c972</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/595ea221fd081601f3fcfb172898258c9ea3d75e\">595ea22</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/1b0a33c44753fe16ea6ab87d1b259d66386d38be\">1b0a33c</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/6a7e8ebcc08cfe95606ab70b2c2f1fea31b7f5b8\">6a7e8eb</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/3751f8b8b73bb86638992b1d21d41392b25b97dc\">3751f8b</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/480bc30ccd7e1262c751540063e3ebc3f4ddbd21\">480bc30</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/86a17856b8b1b40a31ca00413307f6c888130295\">86a1785</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/e9f79a378133cd7a9e82b6858d4390f52e6df6d3\">e9f79a3</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/bba32a96d43a6b32f86cca28d5605ff46afbd80a\">bba32a9</a>\n- <a href=\"https://github.com/andrewjswan/actions/commit/127c97271494ee87efbc7dd5c031ff48ddc53e6c\">127c972</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/595ea221fd081601f3fcfb172898258c9ea3d75e\">595ea22</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/1b0a33c44753fe16ea6ab87d1b259d66386d38be\">1b0a33c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1159 times)\n2. update (used 936 times)\n3. merge (used 859 times)\n4. bump (used 812 times)\n5. request (used 679 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1160 times)\n2. update (used 952 times)\n3. merge (used 860 times)\n4. bump (used 812 times)\n5. request (used 679 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b5949ef8dbfbccad8de3f4ef2a944357b301d303\">b5949ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/acb59d73d813cb9284b93157a85c5dc58f4e7e85\">acb59d7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/43a57e5913e92a13714a211bfd5c2cb310da5cd9\">43a57e5</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/695ca298fe55b8081ddabc4cda0687bda748b0e8\">695ca29</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/6c1c0e46f8e5caefe2024207c1c99cef52fbf2a1\">6c1c0e4</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/eb0a4a12becfa5f12dd7b4edef358a0320a17412\">eb0a4a1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/faf08a6b257ba125b04bf8fa9f81f43f9e9a12c8\">faf08a6</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e91a3a5a218b9c82848730f06d73724c1e00eafb\">e91a3a5</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/f6ddedb17d6cc6ebe5323e2abf0509a767de07e2\">f6ddedb</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b5949ef8dbfbccad8de3f4ef2a944357b301d303\">b5949ef</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/acb59d73d813cb9284b93157a85c5dc58f4e7e85\">acb59d7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/43a57e5913e92a13714a211bfd5c2cb310da5cd9\">43a57e5</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
