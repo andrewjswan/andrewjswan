@@ -3,7 +3,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>: favorite-word: More than 1 letter\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>: 51: Morning commit time\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>: 51: Add sleepy-coder and Expand Morning to 8am\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>: sleepy-coder Released\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>: Delorean badge rework\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>: Delorean the list of commits has been increased\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>: Spooky Commit badge (Only Halloween for Now)\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>: Add: Cosmetic commit badge\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>: Cosmetic-commit badge update\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>: Change regex for `ignore conventional commit`\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>: Removed unnecessary prefixes to match Conventional Commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>: On Friday The 13th, They Began To Commit, One… By One…\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>: Cosmetic: Normalize Friday the 13th Badge Size\n- <a href=\"https://github.com/my-badges/my-badges/pull/121\">#121</a>: Summer / Winter Solstice commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/123\">#123</a>: Add Title to MyBadges Contributor PRs",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/48\">#48</a>: favorite-word: More than 1 letter\n- <a href=\"https://github.com/my-badges/my-badges/pull/52\">#52</a>: 51: Morning commit time\n- <a href=\"https://github.com/my-badges/my-badges/pull/53\">#53</a>: 51: Add sleepy-coder and Expand Morning to 8am\n- <a href=\"https://github.com/my-badges/my-badges/pull/56\">#56</a>: sleepy-coder Released\n- <a href=\"https://github.com/my-badges/my-badges/pull/57\">#57</a>: Delorean badge rework\n- <a href=\"https://github.com/my-badges/my-badges/pull/58\">#58</a>: Delorean the list of commits has been increased\n- <a href=\"https://github.com/my-badges/my-badges/pull/59\">#59</a>: Spooky Commit badge (Only Halloween for Now)\n- <a href=\"https://github.com/my-badges/my-badges/pull/60\">#60</a>: Add: Cosmetic commit badge\n- <a href=\"https://github.com/my-badges/my-badges/pull/64\">#64</a>: Cosmetic-commit badge update\n- <a href=\"https://github.com/my-badges/my-badges/pull/112\">#112</a>: Change regex for `ignore conventional commit`\n- <a href=\"https://github.com/my-badges/my-badges/pull/113\">#113</a>: Removed unnecessary prefixes to match Conventional Commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/118\">#118</a>: On Friday The 13th, They Began To Commit, One… By One…\n- <a href=\"https://github.com/my-badges/my-badges/pull/119\">#119</a>: Cosmetic: Normalize Friday the 13th Badge Size\n- <a href=\"https://github.com/my-badges/my-badges/pull/121\">#121</a>: Summer / Winter Solstice commits\n- <a href=\"https://github.com/my-badges/my-badges/pull/123\">#123</a>: Add Title to MyBadges Contributor PRs\n- <a href=\"https://github.com/my-badges/my-badges/pull/124\">#124</a>: Happy Programmers Day!",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cf185bbb9d614c1bc223260fb82f0e71f7e8f9ca\">cf185bb</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/5268a1ecd56277d80ad6d97972b854c040f06767\">5268a1e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/0c0bf2dfffa6e8824f0ab117bc3cf61b53c54548\">0c0bf2d</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/8a15fe68b8135e6ce7e67cf325b584552ee0659b\">8a15fe6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/810225305ac2c1e1239e5bac9f9c4ca738c2eb02\">8102253</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/924f1f3d4bd776db4b9e06f810bdb5d4563b9ed7\">924f1f3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6f12c18e0efebc7c33190bcaad5258d683be5989\">6f12c18</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cf185bbb9d614c1bc223260fb82f0e71f7e8f9ca\">cf185bb</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/5268a1ecd56277d80ad6d97972b854c040f06767\">5268a1e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/0c0bf2dfffa6e8824f0ab117bc3cf61b53c54548\">0c0bf2d</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/8a15fe68b8135e6ce7e67cf325b584552ee0659b\">8a15fe6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1174 times)\n2. update (used 1019 times)\n3. merge (used 912 times)\n4. bump (used 862 times)\n5. request (used 725 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1175 times)\n2. update (used 1020 times)\n3. merge (used 912 times)\n4. bump (used 865 times)\n5. request (used 727 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/810225305ac2c1e1239e5bac9f9c4ca738c2eb02\">8102253</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/4d8fced90d15153fe1c3dd8f5439a0ed8c44ece0\">4d8fced</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/811f769941cacc952a175172c5d5fe7c65d4e5e5\">811f769</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/faf08a6b257ba125b04bf8fa9f81f43f9e9a12c8\">faf08a6</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e91a3a5a218b9c82848730f06d73724c1e00eafb\">e91a3a5</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/f6ddedb17d6cc6ebe5323e2abf0509a767de07e2\">f6ddedb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/69193127341dd4c35820b4394cdf8d56c01d43bb\">6919312</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/810225305ac2c1e1239e5bac9f9c4ca738c2eb02\">8102253</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/4d8fced90d15153fe1c3dd8f5439a0ed8c44ece0\">4d8fced</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/811f769941cacc952a175172c5d5fe7c65d4e5e5\">811f769</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/faf08a6b257ba125b04bf8fa9f81f43f9e9a12c8\">faf08a6</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e91a3a5a218b9c82848730f06d73724c1e00eafb\">e91a3a5</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -215,5 +215,12 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6f12c18e0efebc7c33190bcaad5258d683be5989\">6f12c18</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/672fff59f903ea0d519a361d67e708799820cd2f\">672fff5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/d963ed510a1dbb12bce4b85cc68f644c2c62f7f0\">d963ed5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/6b73aee8f27c5611dca802dd2a388717e96f8ff3\">6b73aee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/188fd5daffae33fdedf2055eaae54877f9185574\">188fd5d</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
