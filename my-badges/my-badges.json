@@ -17,7 +17,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome/commit/1466aa7703988474cf9f889e378078fd1456962d\">1466aa7</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/e8a3de26424e2431747fea387ff992009e76b962\">e8a3de2</a>\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/febe8cc52988247e1d266e41ac7d15741331bef4\">febe8cc</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/248dbd32a576364c1803bbc84ec2398a997744da\">248dbd3</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd\">1c229da</a>\n- <a href=\"https://github.com/andrewjswan/MPE/commit/2a036528347e5b56938d885c3a6f237260c26f6e\">2a03652</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/90e6c1deaf4901e4b49c558a903268b29699c362\">90e6c1d</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/1466aa7703988474cf9f889e378078fd1456962d\">1466aa7</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/e8a3de26424e2431747fea387ff992009e76b962\">e8a3de2</a>\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/febe8cc52988247e1d266e41ac7d15741331bef4\">febe8cc</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/248dbd32a576364c1803bbc84ec2398a997744da\">248dbd3</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/1c229da4209e03c2a24d99ed038f726275ccafbd\">1c229da</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6f12c18e0efebc7c33190bcaad5258d683be5989\">6f12c18</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cf185bbb9d614c1bc223260fb82f0e71f7e8f9ca\">cf185bb</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/5268a1ecd56277d80ad6d97972b854c040f06767\">5268a1e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/0c0bf2dfffa6e8824f0ab117bc3cf61b53c54548\">0c0bf2d</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/8a15fe68b8135e6ce7e67cf325b584552ee0659b\">8a15fe6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/e0705882f5b45e11ea96ac758e48b95a5a682e7a\">e070588</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/cea94606914b50c4bc079c92bd61cd8e340775c6\">cea9460</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/50ed8a239c292da791cfeb0c72301dc21505a8d3\">50ed8a2</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/915a91d646daac9cc4efddb96c85d654a977ddc5\">915a91d</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/5ac6351af5bbc36991ba300ee9a763178e84a2d8\">5ac6351</a>\n- <a href=\"https://github.com/andrewjswan/pixel-clock/commit/c457842ef2c77857584b831ebb282dd5fe981693\">c457842</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1175 times)\n2. update (used 1020 times)\n3. merge (used 914 times)\n4. bump (used 869 times)\n5. request (used 729 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1183 times)\n2. update (used 1020 times)\n3. merge (used 917 times)\n4. bump (used 869 times)\n5. request (used 732 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
