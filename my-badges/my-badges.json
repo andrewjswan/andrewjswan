@@ -196,6 +196,13 @@
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6f12c18e0efebc7c33190bcaad5258d683be5989\">6f12c18</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/672fff59f903ea0d519a361d67e708799820cd2f\">672fff5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/d963ed510a1dbb12bce4b85cc68f644c2c62f7f0\">d963ed5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/6b73aee8f27c5611dca802dd2a388717e96f8ff3\">6b73aee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/188fd5daffae33fdedf2055eaae54877f9185574\">188fd5d</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
@@ -215,12 +222,5 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6f12c18e0efebc7c33190bcaad5258d683be5989\">6f12c18</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/672fff59f903ea0d519a361d67e708799820cd2f\">672fff5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/d963ed510a1dbb12bce4b85cc68f644c2c62f7f0\">d963ed5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/6b73aee8f27c5611dca802dd2a388717e96f8ff3\">6b73aee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/188fd5daffae33fdedf2055eaae54877f9185574\">188fd5d</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
