@@ -39,15 +39,6 @@
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/summer-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/summer-solstice-commits.png" alt="I commit in the Summer solstice." title="I commit in the Summer solstice." width="64"></a>
 <a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<a href="my-badges/abcd-commit.md"><img src="https://my-badges.github.io/my-badges/abcd-commit.png" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="64"></a>
-<a href="my-badges/abcde-commit.md"><img src="https://my-badges.github.io/my-badges/abcde-commit.png" alt="One of my commit sha starts with &quot;abcde&quot;." title="One of my commit sha starts with &quot;abcde&quot;." width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <!-- my-badges end -->
 
 </div>

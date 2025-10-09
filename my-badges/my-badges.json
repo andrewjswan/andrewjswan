@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1201 times)\n2. update (used 1031 times)\n3. merge (used 947 times)\n4. bump (used 904 times)\n5. request (used 762 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1201 times)\n2. update (used 1033 times)\n3. merge (used 947 times)\n4. bump (used 904 times)\n5. request (used 762 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -222,68 +222,5 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/a3e23b00fc48260d7bd6c8cb52e6d6786f294796\"><strong>a</strong>3e23b00fc48260d7bd6c8cb52e6d6786f294796</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/ab5d2f5c23bc18b2f9a4aa055c81a02298d29919\"><strong>ab</strong>5d2f5c23bc18b2f9a4aa055c81a02298d29919</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "abc-commit",
-    "tier": 3,
-    "desc": "One of my commit sha starts with \"abc\".",
-    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/abced0ede5ccd9be069a72849da9e181314fd8d4\"><strong>abc</strong>ed0ede5ccd9be069a72849da9e181314fd8d4</a>",
-    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
-  },
-  {
-    "id": "abcd-commit",
-    "tier": 4,
-    "desc": "One of my commit sha starts with \"abcd\".",
-    "body": "- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/abcd209466e9c432e3716c3d7809b9b64326b72f\"><strong>abcd</strong>209466e9c432e3716c3d7809b9b64326b72f</a>",
-    "image": "https://my-badges.github.io/my-badges/abcd-commit.png"
-  },
-  {
-    "id": "abcde-commit",
-    "tier": 5,
-    "desc": "One of my commit sha starts with \"abcde\".",
-    "body": "- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/abcded5e9b1e499ac500f30808eb0234ed7c76f6\"><strong>abcde</strong>d5e9b1e499ac500f30808eb0234ed7c76f6</a>",
-    "image": "https://my-badges.github.io/my-badges/abcde-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/cs-script.net-framework/commit/74b07d53889c1883cf70255b738a3b6a90cf90ae\">74b07d5</a>: Fix for dynamically generated assemblies\n- <a href=\"https://github.com/andrewjswan/cs-script.net-framework/commit/4972f36df338b85a8df430f514fa96acba3de6f2\">4972f36</a>: Fix for FindGlobalAssembly",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a3fb3bdd86582d8db8d3a5cf104b7390dc008318\">a3fb3bd</a>: Fix dashboard package url for Svitlobot\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b9e17a390a43c771083d2b0d2a465bd2b091c376\">b9e17a3</a>: Fix dashboard import url for Svitlobot (#14)\n\n* Fix dashboard import url for Svitlobot\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>: Fix for ESPHome 2024.10",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "github-anniversary-5",
-    "tier": 0,
-    "desc": "I joined GitHub 5 years ago.",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/0a32ae2a24b1f060e5a6d41794ad629faaaa9349\">0a32ae2</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]
