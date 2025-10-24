@@ -6,9 +6,9 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/denysdovhan/ha-lun-misto-air/issues/6">#6</a>: HACS Badge
 - <a href="https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent/issues/339">#339</a>: Platform `gree` does not generate unique IDs.
-- <a href="https://github.com/rupeshs/fastsdcpu/issues/334">#334</a>: Ubuntu LTS - RuntimeError: operator `torchvision::nms` does not exist
 - <a href="https://github.com/home-assistant/core/issues/42758">#42758</a>: Gree integration - AC not found
 - <a href="https://github.com/home-assistant/operating-system/issues/1389">#1389</a>: Intel NUC - grep: /proc/net/wireless: No such file or directory
+- <a href="https://github.com/tomvanswam/compass-card/issues/338">#338</a>: Typo in Russian translation
 
  And many more...
 
