@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/e14412022cf4252303946b55977818f3cb57dc0d\">e144120</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/86c6d9426eb8e87a18b3217cc42a12bf4d45d239\">86c6d94</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/5b7a9c7f0dde46c9b3665f9750ed565f66b09518\">5b7a9c7</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/b5b3b2d6bd341e9ff8542d14d02cab8c64758ebd\">b5b3b2d</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/d3a455e4cacc160653c2b35a1a31e76cc793bb05\">d3a455e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/226e4da41a2ec4af01e3b52bf3c2516bcb26aae3\">226e4da</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/27b8be1a733b961fe5e7091819c7903ebbea589b\">27b8be1</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/e14412022cf4252303946b55977818f3cb57dc0d\">e144120</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/86c6d9426eb8e87a18b3217cc42a12bf4d45d239\">86c6d94</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/5b7a9c7f0dde46c9b3665f9750ed565f66b09518\">5b7a9c7</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/b5b3b2d6bd341e9ff8542d14d02cab8c64758ebd\">b5b3b2d</a>\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/d3a455e4cacc160653c2b35a1a31e76cc793bb05\">d3a455e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/7e0a4ad0dd76f65f58c35b2cc206cb7c2250cf50\">7e0a4ad</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/296bdb807aae9f685d5c88881c7f0af568c84ca6\">296bdb8</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/e11a3fd9fc83a12321f095507783306bdefe7c94\">e11a3fd</a>\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/56005b39b3ecf00d7cc6ecdc6c2416237f64afd8\">56005b3</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/dac47ad4684475427d51904bed86c3dfef186efe\">dac47ad</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/27b8be1a733b961fe5e7091819c7903ebbea589b\">27b8be1</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/7a8f6a4de38145635c328f8a4929c048fd2566ec\">7a8f6a4</a>\n- <a href=\"https://github.com/andrewjswan/actions/commit/df5e5b56dfc2d4efd04294b9408f44d9044aa781\">df5e5b5</a>\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/7e0a4ad0dd76f65f58c35b2cc206cb7c2250cf50\">7e0a4ad</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/296bdb807aae9f685d5c88881c7f0af568c84ca6\">296bdb8</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1210 times)\n2. update (used 1044 times)\n3. merge (used 1006 times)\n4. bump (used 1005 times)\n5. request (used 821 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1213 times)\n2. update (used 1044 times)\n3. merge (used 1007 times)\n4. bump (used 1007 times)\n5. request (used 822 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
