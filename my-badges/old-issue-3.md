@@ -4,7 +4,7 @@
 
 Issues:
 
-- <a href="https://github.com/custom-cards/upcoming-media-card/issues/64">#64</a>: Add "data:image/png;base64,..." support for Fanart and Poster
+- <a href="https://github.com/custom-components/ble_monitor/issues/691">#691</a>: RSSI sensor for Device tracker devices
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
