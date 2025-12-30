@@ -147,11 +147,11 @@
     "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
-    "id": "cosmetic-commit",
+    "id": "pi-day",
     "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/2da9be7b2ce220f44f32642c9010fece1d17b8bf\">2da9be7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/a9555a8d54906811ba317449b26382ea68069ca0\">a9555a8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/63d80aac2621b2fbb93e2f621bea3c3f1fad6a4a\">63d80aa</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/a1c315c2d2c0a44ab5ace708af7d0111059a9566\">a1c315c</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/69193127341dd4c35820b4394cdf8d56c01d43bb\">6919312</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/810225305ac2c1e1239e5bac9f9c4ca738c2eb02\">8102253</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/13b98141858c4adcd00d2541a7808af480579c01\">13b9814</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/cf0e5aa8223850da55e8ada195e5e821721c733b\">cf0e5aa</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.holidays/commit/d26408d3d80b941c9a4d04eec2a52093d9298511\">d26408d</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.genres/commit/267489305a67030cfc6ca1fdc537c17f6813a047\">2674893</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.awards/commit/1270348a5658c866445ffa18db7640e506225ec6\">1270348</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
     "id": "cafe-commit",
@@ -231,10 +231,10 @@
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
   },
   {
-    "id": "pi-day",
+    "id": "cosmetic-commit",
     "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/13b98141858c4adcd00d2541a7808af480579c01\">13b9814</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/cf0e5aa8223850da55e8ada195e5e821721c733b\">cf0e5aa</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.holidays/commit/d26408d3d80b941c9a4d04eec2a52093d9298511\">d26408d</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.genres/commit/267489305a67030cfc6ca1fdc537c17f6813a047\">2674893</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.awards/commit/1270348a5658c866445ffa18db7640e506225ec6\">1270348</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/2da9be7b2ce220f44f32642c9010fece1d17b8bf\">2da9be7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/a9555a8d54906811ba317449b26382ea68069ca0\">a9555a8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/63d80aac2621b2fbb93e2f621bea3c3f1fad6a4a\">63d80aa</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/a1c315c2d2c0a44ab5ace708af7d0111059a9566\">a1c315c</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/69193127341dd4c35820b4394cdf8d56c01d43bb\">6919312</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/810225305ac2c1e1239e5bac9f9c4ca738c2eb02\">8102253</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
