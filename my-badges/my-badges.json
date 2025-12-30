@@ -140,11 +140,11 @@
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
-    "id": "emoji-only-commit",
-    "tier": 0,
-    "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/5d412ff9252cff84233aab8c24dc035853b62cde\">5d412ff</a>: 💡 💣 👻",
-    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/custom-components/ble_monitor/issues/691\">#691</a>: RSSI sensor for Device tracker devices",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
     "id": "cosmetic-commit",
@@ -166,6 +166,13 @@
     "desc": "Happy February 29th! I committed on a Leap Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9262430b0dd651ebe5229c1c37610bd13e31bc\">1a92624</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan/commit/de8aac7aef73f57b540f67569503143f99d1236c\">de8aac7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b89d7d91ddf9e170d495eaa0c2524ba79a3a0e79\">b89d7d9</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/deec31704ae2556c81952ee40976076e2c92907d\">deec317</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/345f914bedc0c27d4a2d24cb6db4e26d9034bacf\">345f914</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/5d412ff9252cff84233aab8c24dc035853b62cde\">5d412ff</a>: 💡 💣 👻",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
   },
   {
     "id": "epic-commit",
@@ -222,12 +229,5 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/custom-components/ble_monitor/issues/691\">#691</a>: RSSI sensor for Device tracker devices",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   }
 ]
