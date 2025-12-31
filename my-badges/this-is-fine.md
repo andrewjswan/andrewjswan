@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
-- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/340">#340</a>: MP1-5226: VideoPlayer: Fix AnalyseStream to support individual video/audio source filter
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
