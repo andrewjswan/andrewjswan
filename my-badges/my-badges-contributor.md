@@ -19,6 +19,10 @@ Pull requests:
 - <a href="https://github.com/my-badges/my-badges/pull/119">#119</a>: Cosmetic: Normalize Friday the 13th Badge Size
 - <a href="https://github.com/my-badges/my-badges/pull/121">#121</a>: Summer / Winter Solstice commits
 - <a href="https://github.com/my-badges/my-badges/pull/123">#123</a>: Add Title to MyBadges Contributor PRs
+- <a href="https://github.com/my-badges/my-badges/pull/124">#124</a>: Happy Programmers Day!
+- <a href="https://github.com/my-badges/my-badges/pull/127">#127</a>: Fix for `old-issue` badges
+- <a href="https://github.com/my-badges/my-badges/pull/129">#129</a>: Add badge for `May the 4th be with you`
+- <a href="https://github.com/my-badges/my-badges/pull/130">#130</a>: Optimization to fix `RESOURCE_LIMITS_EXCEEDED`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
