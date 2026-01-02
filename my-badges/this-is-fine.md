@@ -4,6 +4,8 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/343">#343</a>: MP1-5228: Bump NSIS 3.09 to 3.10
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/344">#344</a>: MP1-5225: Update SQLite to 3.47.0
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
