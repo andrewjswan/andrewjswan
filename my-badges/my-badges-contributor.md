@@ -23,6 +23,7 @@ Pull requests:
 - <a href="https://github.com/my-badges/my-badges/pull/127">#127</a>: Fix for `old-issue` badges
 - <a href="https://github.com/my-badges/my-badges/pull/129">#129</a>: Add badge for `May the 4th be with you`
 - <a href="https://github.com/my-badges/my-badges/pull/130">#130</a>: Optimization to fix `RESOURCE_LIMITS_EXCEEDED`
+- <a href="https://github.com/my-badges/my-badges/pull/132">#132</a>: Add badge for `St. Patricks Day`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
