@@ -23,7 +23,10 @@ Pull requests:
 - <a href="https://github.com/my-badges/my-badges/pull/127">#127</a>: Fix for `old-issue` badges
 - <a href="https://github.com/my-badges/my-badges/pull/129">#129</a>: Add badge for `May the 4th be with you`
 - <a href="https://github.com/my-badges/my-badges/pull/130">#130</a>: Optimization to fix `RESOURCE_LIMITS_EXCEEDED`
+- <a href="https://github.com/my-badges/my-badges/pull/131">#131</a>: Add badge for `Alien Day`
 - <a href="https://github.com/my-badges/my-badges/pull/132">#132</a>: Add badge for `St. Patricks Day`
+- <a href="https://github.com/my-badges/my-badges/pull/133">#133</a>: Add badge for `National Science Fiction Day`
+- <a href="https://github.com/my-badges/my-badges/pull/134">#134</a>: Simplified the description for the badge `May the 4th be with you!`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
