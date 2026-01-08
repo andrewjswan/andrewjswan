@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/my-badges/commit/09b6908597dee013c187cbbb15ae1f207f31c7ad">09b6908</a>
 - <a href="https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722">6aed0cc</a>
 - <a href="https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29">6c41895</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef">08ce3aa</a>
