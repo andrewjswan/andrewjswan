@@ -11,6 +11,8 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/home-assistant-dewpoint/pull/1">#1</a>: Replacing `async_track_state_change` with `async_track_state_change_event`
 - <a href="https://github.com/andrewjswan/esphome-config/pull/16">#16</a>: Rename `esp_log` to `esp_logger`
 - <a href="https://github.com/andrewjswan/esphome-config/pull/17">#17</a>: Add Mini UPS
+- <a href="https://github.com/andrewjswan/esphome-components/pull/73">#73</a>: Prettier fix
+- <a href="https://github.com/andrewjswan/esphome-components/pull/74">#74</a>: Update .pre-commit-config.yaml
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
