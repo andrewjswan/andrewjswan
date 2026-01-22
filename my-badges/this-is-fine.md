@@ -13,6 +13,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/esphome-config/pull/17">#17</a>: Add Mini UPS
 - <a href="https://github.com/andrewjswan/esphome-components/pull/73">#73</a>: Prettier fix
 - <a href="https://github.com/andrewjswan/esphome-components/pull/74">#74</a>: Update .pre-commit-config.yaml
+- <a href="https://github.com/andrewjswan/esphome-components/pull/76">#76</a>: OTA Fix for ESPHome 2026.0
 - <a href="https://github.com/andrewjswan/esphome-components/pull/77">#77</a>: Performance: IRAM_ATTR Optimization for SHA256 Hardware Acceleration
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
