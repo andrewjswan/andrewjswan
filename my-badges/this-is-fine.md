@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/351">#351</a>: MP1-5229: MiniDisplayLibrary: Fix x64 compatibilty for HID VFD Control
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 - <a href="https://github.com/andrewjswan/esphome-components/pull/45">#45</a>: ESPHome 2025.7.0
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
