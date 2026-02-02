@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/351">#351</a>: MP1-5229: MiniDisplayLibrary: Fix x64 compatibilty for HID VFD Control
 - <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars/pull/13">#13</a>: Add artifact description, Update year in LICENSE
 - <a href="https://github.com/andrewjswan/esphome-components/pull/45">#45</a>: ESPHome 2025.7.0
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
@@ -18,6 +17,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/esphome-components/pull/77">#77</a>: Performance: IRAM_ATTR Optimization for SHA256 Hardware Acceleration
 - <a href="https://github.com/andrewjswan/svitlobot/pull/41">#41</a>: Create .pre-commit-config.yaml
 - <a href="https://github.com/andrewjswan/actions/pull/95">#95</a>: CWE-190: Bump ESPHome version to 2026.1.2
+- <a href="https://github.com/andrewjswan/svitlobot/pull/63">#63</a>: Add Documentation
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
