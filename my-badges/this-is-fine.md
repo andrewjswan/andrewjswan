@@ -18,6 +18,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/svitlobot/pull/41">#41</a>: Create .pre-commit-config.yaml
 - <a href="https://github.com/andrewjswan/actions/pull/95">#95</a>: CWE-190: Bump ESPHome version to 2026.1.2
 - <a href="https://github.com/andrewjswan/svitlobot/pull/63">#63</a>: Add Documentation
+- <a href="https://github.com/andrewjswan/svitlobot/pull/70">#70</a>: Screenshot
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
