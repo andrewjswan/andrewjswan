@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/svitlobot/commit/2fc63db450e138e00990ca1ee2a248480c884645">2fc63db</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/483835d9741e726d4f255c04ae6757fbb80361ec">483835d</a>
-- <a href="https://github.com/andrewjswan/actions/commit/98539ba87d0d2e7283d82825ea556b19e0319a02">98539ba</a>
-- <a href="https://github.com/andrewjswan/actions/commit/672108d6288856f436f1ee7420c589d192d51d55">672108d</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/fda2318e60131efd640bfe31598000d6192868e0">fda2318</a>
-- <a href="https://github.com/andrewjswan/esphome-config/commit/3c8d8016a5da076b5634b2f014e7b9537bddc5a7">3c8d801</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/bc6a12061d51489999ab51895938f36802f0d90f">bc6a120</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/781e88e9e05a9089a6cb7dfff7e60735a5014fec">781e88e</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/709718b457271bf43ff8a977f2a0b1086def0a68">709718b</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/255f1f48915c6c625fbecba908e05de8296bde82">255f1f4</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/a2aeaee54862c78c0ccd778fd3e3388ff3cfac03">a2aeaee</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/48e58311868e27ddf6c4a3379af029a33fabc857">48e5831</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
