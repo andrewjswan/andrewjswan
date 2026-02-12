@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1328 times)\n2. bump (used 1214 times)\n3. update (used 1178 times)\n4. merge (used 1127 times)\n5. request (used 943 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1329 times)\n2. bump (used 1214 times)\n3. update (used 1209 times)\n4. merge (used 1127 times)\n5. request (used 943 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/09b6908597dee013c187cbbb15ae1f207f31c7ad\">09b6908</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722\">6aed0cc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29\">6c41895</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/09b6908597dee013c187cbbb15ae1f207f31c7ad\">09b6908</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722\">6aed0cc</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/511bd3b9974cf33093a02346e4e2c694a5db3817\">511bd3b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29\">6c41895</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
