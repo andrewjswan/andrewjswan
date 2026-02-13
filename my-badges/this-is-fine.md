@@ -20,6 +20,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/svitlobot/pull/58">#58</a>: 3.5.35: Add `HealthCheck` package
 - <a href="https://github.com/andrewjswan/svitlobot/pull/63">#63</a>: Add Documentation
 - <a href="https://github.com/andrewjswan/svitlobot/pull/70">#70</a>: Screenshot
+- <a href="https://github.com/andrewjswan/svitlobot/pull/102">#102</a>: Add `Web Server Authentication` as Package
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
