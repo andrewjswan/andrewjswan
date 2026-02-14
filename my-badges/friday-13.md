@@ -4,6 +4,9 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/svitlobot/commit/e259fde4423690310a06e3a158bfc34563c70209">e259fde</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/6859eb24bfdee45a1754c6276eb64cf0568bf5b8">6859eb2</a>
+- <a href="https://github.com/andrewjswan/svitlobot/commit/156a7d1e32d55cb0dc69e9114ca256bcce047fa6">156a7d1</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/9c251dbbfddcbcbbd89d046e41e950a459c4b16f">9c251db</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/ae2c1b2059f2901831603148907afcd948e0f1cb">ae2c1b2</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/c8e2a44f369878a5d1bc7e51b159c2db57ec0bce">c8e2a44</a>
@@ -14,9 +17,6 @@ Commits:
 - <a href="https://github.com/andrewjswan/blackout-addons/commit/860c12ac1aa664181977f8820b313a91d0d4ca5b">860c12a</a>
 - <a href="https://github.com/andrewjswan/blackout-addons/commit/fd7f2779f056a397fde8c2b77d24c513b8da78f8">fd7f277</a>
 - <a href="https://github.com/andrewjswan/blackout-addons/commit/fedec07078b3f39ca80fbf47b15c08f447b77b22">fedec07</a>
-- <a href="https://github.com/andrewjswan/blackout-addons/commit/1ebe65a22ecfb9184028f066d469e2f914833c58">1ebe65a</a>
-- <a href="https://github.com/andrewjswan/blackout-addons/commit/6b723307a76601e0ca579836df0ca6583be18012">6b72330</a>
-- <a href="https://github.com/andrewjswan/blackout-addons/commit/2e2c16e857f9cf42132d63336614f6a13b632866">2e2c16e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
