@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/6f82f0892e5893652b05be0a2344c2a00ebd8d6c\">6f82f08</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/2a091e97c3716493400805aecf566db0f63e9e76\">2a091e9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/bc6a12061d51489999ab51895938f36802f0d90f\">bc6a120</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/781e88e9e05a9089a6cb7dfff7e60735a5014fec\">781e88e</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/709718b457271bf43ff8a977f2a0b1086def0a68\">709718b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/255f1f48915c6c625fbecba908e05de8296bde82\">255f1f4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/325a9207e968185de2887f1f7cfa471fe6a55071\">325a920</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/6f82f0892e5893652b05be0a2344c2a00ebd8d6c\">6f82f08</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/2a091e97c3716493400805aecf566db0f63e9e76\">2a091e9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/bc6a12061d51489999ab51895938f36802f0d90f\">bc6a120</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/781e88e9e05a9089a6cb7dfff7e60735a5014fec\">781e88e</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/709718b457271bf43ff8a977f2a0b1086def0a68\">709718b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1355 times)\n2. update (used 1246 times)\n3. bump (used 1217 times)\n4. merge (used 1128 times)\n5. request (used 945 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1356 times)\n2. update (used 1256 times)\n3. bump (used 1217 times)\n4. merge (used 1128 times)\n5. request (used 945 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
