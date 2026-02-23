@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1377 times)\n2. update (used 1293 times)\n3. bump (used 1220 times)\n4. merge (used 1131 times)\n5. request (used 946 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1377 times)\n2. update (used 1295 times)\n3. bump (used 1220 times)\n4. merge (used 1131 times)\n5. request (used 946 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -264,5 +264,89 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722\">6aed0cc</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/33f412a01bc9fc69f6eaf1da0fa7b1220c0bc3d7\">33f412a</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cdcb933a6098d615f8dc54e588f2635e0fef62f5\">cdcb933</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/87a87d875854fdbbf72e5c6d17f8c8180a1fe82d\">87a87d8</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/6210ddeb005b1f7e6d9824733924191811d0a7ca\">6210dde</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/aee426a3a69dc61c17ac7f84251e4bb6042a8930\">aee426a</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler/commit/a3e23b00fc48260d7bd6c8cb52e6d6786f294796\"><strong>a</strong>3e23b00fc48260d7bd6c8cb52e6d6786f294796</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/ab5d2f5c23bc18b2f9a4aa055c81a02298d29919\"><strong>ab</strong>5d2f5c23bc18b2f9a4aa055c81a02298d29919</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/abced0ede5ccd9be069a72849da9e181314fd8d4\"><strong>abc</strong>ed0ede5ccd9be069a72849da9e181314fd8d4</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "abcd-commit",
+    "tier": 4,
+    "desc": "One of my commit sha starts with \"abcd\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/abcd209466e9c432e3716c3d7809b9b64326b72f\"><strong>abcd</strong>209466e9c432e3716c3d7809b9b64326b72f</a>",
+    "image": "https://my-badges.github.io/my-badges/abcd-commit.png"
+  },
+  {
+    "id": "abcde-commit",
+    "tier": 5,
+    "desc": "One of my commit sha starts with \"abcde\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/abcded5e9b1e499ac500f30808eb0234ed7c76f6\"><strong>abcde</strong>d5e9b1e499ac500f30808eb0234ed7c76f6</a>",
+    "image": "https://my-badges.github.io/my-badges/abcde-commit.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/e14412022cf4252303946b55977818f3cb57dc0d\">e144120</a>: Fix for ESPHome 2025.11.0\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/86c6d9426eb8e87a18b3217cc42a12bf4d45d239\">86c6d94</a>: Fix for ESPHome 2025.11.0\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/5b7a9c7f0dde46c9b3665f9750ed565f66b09518\">5b7a9c7</a>: Fix for ESPHome 2025.11.0\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/b5b3b2d6bd341e9ff8542d14d02cab8c64758ebd\">b5b3b2d</a>: Fix for ESPHome 2025.11.0\n- <a href=\"https://github.com/andrewjswan/KaufHA-esphome-components/commit/d3a455e4cacc160653c2b35a1a31e76cc793bb05\">d3a455e</a>: Fix for ESPHome 2025.11.0",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/cs-script.net-framework/commit/74b07d53889c1883cf70255b738a3b6a90cf90ae\">74b07d5</a>: Fix for dynamically generated assemblies\n- <a href=\"https://github.com/andrewjswan/cs-script.net-framework/commit/4972f36df338b85a8df430f514fa96acba3de6f2\">4972f36</a>: Fix for FindGlobalAssembly",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a3fb3bdd86582d8db8d3a5cf104b7390dc008318\">a3fb3bd</a>: Fix dashboard package url for Svitlobot\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b9e17a390a43c771083d2b0d2a465bd2b091c376\">b9e17a3</a>: Fix dashboard import url for Svitlobot (#14)\n\n* Fix dashboard import url for Svitlobot\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>: Fix for ESPHome 2024.10",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/0a32ae2a24b1f060e5a6d41794ad629faaaa9349\">0a32ae2</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/my-badges/my-badges/issues/82\">#82</a>: Badges `old-issue`, `this-is-fine` disappeared",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/AlexxIT/GyverLamp/issues/4\">#4</a>: Сервис управления лампой Was: Поддержка нескольких ламп \n- <a href=\"https://github.com/ha0y/xiaomi_miot_raw/issues/144\">#144</a>: Yeelight Wireless Switch S1 - Not work",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   }
 ]
