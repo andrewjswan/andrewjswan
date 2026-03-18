@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b4c236338839f06f78214a33f95d9c6f3825a5cc\">b4c2363</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/4979d506bd3a6bfad9f3546cc735773de1eaf022\">4979d50</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/3040027aa69b5e7be45324fe9352d30d386206c7\">3040027</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a526d373e526cbc36bd2052ee157103b021d9159\">a526d37</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a9ffc66b6ad4e0d0f7e0dab5b412ebab1b3db40d\">a9ffc66</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/524e05446a6955339d2cf48345eb4e18867a0223\">524e054</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b4c236338839f06f78214a33f95d9c6f3825a5cc\">b4c2363</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/4979d506bd3a6bfad9f3546cc735773de1eaf022\">4979d50</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/3040027aa69b5e7be45324fe9352d30d386206c7\">3040027</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a526d373e526cbc36bd2052ee157103b021d9159\">a526d37</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a9ffc66b6ad4e0d0f7e0dab5b412ebab1b3db40d\">a9ffc66</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1403 times)\n2. update (used 1371 times)\n3. bump (used 1228 times)\n4. merge (used 1135 times)\n5. request (used 949 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1403 times)\n2. update (used 1379 times)\n3. bump (used 1228 times)\n4. merge (used 1136 times)\n5. request (used 949 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/02989105ad1abf2e1e28651276d1af755c4b8796\">0298910</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/521d6a96d1acd7875030e009a58e246420d0a9e7\">521d6a9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/08a9bb81c320c8b6c2ca1ed21f19b639cc7be41e\">08a9bb8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/2da9be7b2ce220f44f32642c9010fece1d17b8bf\">2da9be7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/a9555a8d54906811ba317449b26382ea68069ca0\">a9555a8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/63d80aac2621b2fbb93e2f621bea3c3f1fad6a4a\">63d80aa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/02989105ad1abf2e1e28651276d1af755c4b8796\">0298910</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/521d6a96d1acd7875030e009a58e246420d0a9e7\">521d6a9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/08a9bb81c320c8b6c2ca1ed21f19b639cc7be41e\">08a9bb8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/2da9be7b2ce220f44f32642c9010fece1d17b8bf\">2da9be7</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -248,7 +248,7 @@
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/calendar-card-pro/commit/ca2522d53887b86649df856182b47ddc2f6546d8\">ca2522d</a>\n- <a href=\"https://github.com/andrewjswan/calendar-card-pro/commit/76cab905a56c1102344db484df73305973f1a895\">76cab90</a>\n- <a href=\"https://github.com/andrewjswan/calendar-card-pro/commit/e86298e5ed205457f23b736ca6bc3d5f93ab5dc1\">e86298e</a>\n- <a href=\"https://github.com/andrewjswan/calendar-card-pro/commit/ccdd9b0aeab56210572637fbc502a519ccdd8d07\">ccdd9b0</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/027664697eafa48182eabab8a4ac81849b707cec\">0276646</a>\n- <a href=\"https://github.com/andrewjswan/actions/commit/32ee188c7e175a232d63b43910bac70b485c48ef\">32ee188</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/094fb5bf24a80bdd5959c803d50e11caa37970a4\">094fb5b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1126be9250e34c8788e628387265f5fc454e4cd5\">1126be9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/63f096c984a1de5293b00f4ed3f6d05de38cdc49\">63f096c</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/28cb207fec88e163ccd7e2c5acc9850fddc7b2ec\">28cb207</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
