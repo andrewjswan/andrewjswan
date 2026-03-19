@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b4c236338839f06f78214a33f95d9c6f3825a5cc\">b4c2363</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/4979d506bd3a6bfad9f3546cc735773de1eaf022\">4979d50</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/3040027aa69b5e7be45324fe9352d30d386206c7\">3040027</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a526d373e526cbc36bd2052ee157103b021d9159\">a526d37</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a9ffc66b6ad4e0d0f7e0dab5b412ebab1b3db40d\">a9ffc66</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f60aa783a307ffbad86c90508b846c3bf74824a4\">f60aa78</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/967274d6ab183996446522c6625c4f3c1f9cf843\">967274d</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/b4c236338839f06f78214a33f95d9c6f3825a5cc\">b4c2363</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/4979d506bd3a6bfad9f3546cc735773de1eaf022\">4979d50</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/3040027aa69b5e7be45324fe9352d30d386206c7\">3040027</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1403 times)\n2. update (used 1379 times)\n3. bump (used 1228 times)\n4. merge (used 1136 times)\n5. request (used 949 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1403 times)\n2. update (used 1402 times)\n3. bump (used 1228 times)\n4. merge (used 1137 times)\n5. request (used 949 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/02989105ad1abf2e1e28651276d1af755c4b8796\">0298910</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/521d6a96d1acd7875030e009a58e246420d0a9e7\">521d6a9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/08a9bb81c320c8b6c2ca1ed21f19b639cc7be41e\">08a9bb8</a>\n- <a href=\"https://github.com/andrewjswan/esphome-config/commit/2da9be7b2ce220f44f32642c9010fece1d17b8bf\">2da9be7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/88c27407d438f199e9c532276c26e6f97c635b88\">88c2740</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/dde1f9beac9c54aee82af1fc49880ec63feccc77\">dde1f9b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/5c8a849926f112cf21639dc371aee13300bec960\">5c8a849</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/02989105ad1abf2e1e28651276d1af755c4b8796\">0298910</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
