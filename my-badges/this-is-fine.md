@@ -24,6 +24,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/esphome-components/pull/80">#80</a>: Shadow: Add `startup_delay` - delay of the first launch
 - <a href="https://github.com/andrewjswan/svitlobot/pull/116">#116</a>: Add `Ping to Telegram` package
 - <a href="https://github.com/andrewjswan/svitlobot/pull/119">#119</a>: Reorg `firmware` pages
+- <a href="https://github.com/andrewjswan/svitlobot/pull/159">#159</a>: Increase `tls_buffer_size_rx` to `16384` for `http_request` on `ESP8266`
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 

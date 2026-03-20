@@ -1,12 +1,12 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
-<strong>My favorite word is &quot;add&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
+<strong>My favorite word is &quot;update&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. add (used 1403 times)
-2. update (used 1402 times)
-3. bump (used 1228 times)
+1. update (used 1418 times)
+2. add (used 1403 times)
+3. bump (used 1229 times)
 4. merge (used 1137 times)
 5. request (used 949 times)
 
