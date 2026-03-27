@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/svitlobot/commit/f60aa783a307ffbad86c90508b846c3bf74824a4">f60aa78</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/967274d6ab183996446522c6625c4f3c1f9cf843">967274d</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0">f35b415</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/b4c236338839f06f78214a33f95d9c6f3825a5cc">b4c2363</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/4979d506bd3a6bfad9f3546cc735773de1eaf022">4979d50</a>
-- <a href="https://github.com/andrewjswan/svitlobot/commit/3040027aa69b5e7be45324fe9352d30d386206c7">3040027</a>
+- <a href="https://github.com/andrewjswan/esphome-components/commit/bd5a9df8e451b106ef4a5f76a551d418eebbbe56">bd5a9df</a>
+- <a href="https://github.com/andrewjswan/esphome-components/commit/91ccb6e779fb7a57d1956cba75ac01a76b01d54a">91ccb6e</a>
+- <a href="https://github.com/andrewjswan/esphome-components/commit/e632bab5c549cd1b897087c047ea0af4f1334862">e632bab</a>
+- <a href="https://github.com/andrewjswan/esphome-components/commit/62aa045055b843c0ec0a5cf27d6cc2c4f8a94d8b">62aa045</a>
+- <a href="https://github.com/andrewjswan/actions/commit/005a7e7ed14cf6f1fef3b41b2cc0c74a27b20e72">005a7e7</a>
+- <a href="https://github.com/andrewjswan/esphome-components/commit/0a3debc2485c700a25824b38a49214e8bb3159db">0a3debc</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
