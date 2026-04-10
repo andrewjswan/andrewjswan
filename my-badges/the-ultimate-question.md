@@ -5,6 +5,7 @@
 - <a href="https://github.com/my-badges/my-badges/issues/42">#42</a>
 - <a href="https://github.com/andrewjswan/esphome-components/issues/42">#42</a>
 - <a href="https://github.com/andrewjswan/esphome-update-addon/issues/42">#42</a>
+- <a href="https://github.com/andrewjswan/esphome-config/issues/42">#42</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/issues/42">#42</a>
 
 
