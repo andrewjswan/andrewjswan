@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/bd5a9df8e451b106ef4a5f76a551d418eebbbe56\">bd5a9df</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/91ccb6e779fb7a57d1956cba75ac01a76b01d54a\">91ccb6e</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e632bab5c549cd1b897087c047ea0af4f1334862\">e632bab</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/62aa045055b843c0ec0a5cf27d6cc2c4f8a94d8b\">62aa045</a>\n- <a href=\"https://github.com/andrewjswan/actions/commit/005a7e7ed14cf6f1fef3b41b2cc0c74a27b20e72\">005a7e7</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/0a3debc2485c700a25824b38a49214e8bb3159db\">0a3debc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/547d49c605fe4f201199a6ce9a41f448036f2a06\">547d49c</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/455fea21c180828df8c5d9a1af8b3fe46c095cc4\">455fea2</a>\n- <a href=\"https://github.com/andrewjswan/phpmyadmin-addon/commit/de105ee078d046504fc598687ceaae04bad7b1e1\">de105ee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/bd5a9df8e451b106ef4a5f76a551d418eebbbe56\">bd5a9df</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/91ccb6e779fb7a57d1956cba75ac01a76b01d54a\">91ccb6e</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/e632bab5c549cd1b897087c047ea0af4f1334862\">e632bab</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1443 times)\n2. add (used 1429 times)\n3. bump (used 1232 times)\n4. merge (used 1143 times)\n5. request (used 952 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1446 times)\n2. add (used 1429 times)\n3. bump (used 1232 times)\n4. merge (used 1146 times)\n5. request (used 952 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -156,8 +156,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/b4e80bc7a75216839f4232c5595942acafe7991a\">b4e80bc7a75216839f4232c5595942a<strong>cafe</strong>7991a</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/b4e80bc7a75216839f4232c5595942acafe7991a\">b4e80bc7a75216839f4232c5595942a<strong>cafe</strong>7991a</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/6db0877dc40c3fcafe8ba773c7519f85a0957612\">6db0877dc40c3f<strong>cafe</strong>8ba773c7519f85a0957612</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13ee3525e83f110d8e3998e2a56809c51ebf20d5\">13ee352</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/88c27407d438f199e9c532276c26e6f97c635b88\">88c2740</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/dde1f9beac9c54aee82af1fc49880ec63feccc77\">dde1f9b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/5c8a849926f112cf21639dc371aee13300bec960\">5c8a849</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/d4c2f5f15c584261a8a2868e3da1dcf846098e52\">d4c2f5f</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13ee3525e83f110d8e3998e2a56809c51ebf20d5\">13ee352</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/88c27407d438f199e9c532276c26e6f97c635b88\">88c2740</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/dde1f9beac9c54aee82af1fc49880ec63feccc77\">dde1f9b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/5c8a849926f112cf21639dc371aee13300bec960\">5c8a849</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
