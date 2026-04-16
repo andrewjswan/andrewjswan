@@ -26,6 +26,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/svitlobot/pull/159">#159</a>: Increase `tls_buffer_size_rx` to `16384` for `http_request` on `ESP8266`
 - <a href="https://github.com/andrewjswan/svitlobot/pull/165">#165</a>: Add `ESPNow` `Heartbeat` package
 - <a href="https://github.com/andrewjswan/svitlobot/pull/171">#171</a>: Add `802.11k/v Native Roaming` for ESP32
+- <a href="https://github.com/andrewjswan/svitlobot/pull/177">#177</a>: ESPHome `2026.4` | Standardization of conditions for attachable packages
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
