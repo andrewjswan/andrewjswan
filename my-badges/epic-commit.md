@@ -12,6 +12,7 @@ Commits:
 - <a href="https://github.com/andrewjswan/svitlobot/commit/0aa1bfcd8fccb490fcc863a295c01d80089fd274">0aa1bfc</a>
 - <a href="https://github.com/andrewjswan/svitlobot/commit/511bd3b9974cf33093a02346e4e2c694a5db3817">511bd3b</a>
 - <a href="https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29">6c41895</a>
+- <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/95d7da35ca87e6b5e1e4097bb4782b66804dfb26">95d7da3</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef">08ce3aa</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4">65bdbae</a>
 - <a href="https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c">4e96872</a>
