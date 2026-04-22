@@ -1,0 +1,93 @@
+name: Build and Update Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    name: Build Pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Check out Repo
+        uses: actions/checkout@v6
+
+      - name: 🎭 Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.x
+
+      - name: 📦 Install mkDocs
+        run: pip install mkdocs-material
+
+      - name: 📦 Install mkDocs Plug-ins
+        run: |
+          pip install mkdocs-video
+          pip install "mkdocs-material[imaging]"
+
+      - name: ✨ Prepare Pages
+        run: |
+          echo -e "\n" >> docs/index.md
+          cat README.md >> docs/index.md
+
+      - name: 💅 Build the docs site
+        run: mkdocs build --config-file .mkdocs.yml
+
+      - name: 🚀 Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          name: github-pages
+          path: site/
+
+  cleanup:
+    name: GitHub Pages / Delete deployment
+    runs-on: ubuntu-latest
+    permissions: write-all
+    needs:
+      - build
+
+    steps:
+      - name: Delete deployment
+        uses: strumwolf/delete-deployment-environment@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          environment: documentation
+          onlyRemoveDeployments: true
+
+  deploy:
+    name: Deploy Pages
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - cleanup
+
+    environment:
+      name: documentation
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+    # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
+
+    steps:
+      - name: 💅 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: 🧹 Delete Artifacts / Github Pages
+        uses: geekyeggo/delete-artifact@v6
+        with:
+          name: github-pages
+          failOnError: false
