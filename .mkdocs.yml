@@ -1,0 +1,122 @@
+# Project information
+site_name: GitHub | Andrew J.Swan
+site_url: https://andrewjswan.github.io/
+site_author: Andrew J.Swan
+site_description: >-
+  Andrew J.Swan | GitHub Profile
+
+# Repository
+repo_name: andrewjswan
+repo_url: https://github.com/andrewjswan
+remote_branch: documentation
+
+# Copyright
+copyright: Copyright &copy; Andrew J.Swan
+
+# Configuration
+theme:
+  name: material
+  favicon: img/favicon.png
+  icon:
+    logo: material/lightbulb-on-outline
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - content.tooltips
+    - navigation.tabs
+    - navigation.features
+    - navigation.path
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.instant.progress
+    - search.suggest
+    - search.hightlight
+    - toc.integrate
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+      primary: indigo
+      accent: indigo
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: indigo
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: indigo
+      accent: indigo
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - codehilite
+  - md_in_html
+  - sane_lists
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink:
+      hide_protocol: true
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      normalize_issue_symbols: true
+      user: andrewjswan
+      repo: svitlobot
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+nav:
+  - Home: index.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-4S8QHJJ2B7
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/andrewjswan
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com
+
+plugins:
+  - mkdocs-video
+  - social:
+      cards_layout: default/variant
+      cards_layout_options:
+        background_image: docs/img/back.png
+        background_color: transparent
