@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/esphome-config/commit/869c2fc504c5ba3997f2048e5a1515ac8a40e993">869c2fc</a>
-- <a href="https://github.com/andrewjswan/esphome-config/commit/a04c0455ab572153feddd05117d690845ca3fbf1">a04c045</a>
-- <a href="https://github.com/andrewjswan/esphome-config/commit/2539db8877bcadfd237ed92bef12fe835bee398e">2539db8</a>
-- <a href="https://github.com/andrewjswan/mediaportal-fanart-handler/commit/efa61b9cf5d52ed1eb23212f410b7a5c3387d2bd">efa61b9</a>
-- <a href="https://github.com/andrewjswan/TitanExtended/commit/17cb47119e3fe19d150aaaea46a243c1276bef4e">17cb471</a>
-- <a href="https://github.com/andrewjswan/TitanExtended/commit/a26766d53345f0ce65540c78486b919eeaece24a">a26766d</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/c142095c42dc444744637080e4d541dcac1be3ab">c142095</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/9c0647df418398052a17dcdb3a3f82ad893b79f4">9c0647d</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/5bc46efe7ccffeef1a3cfa31970071f068d85ee7">5bc46ef</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/7c965d920a7509fcb013869a8855eb79d5b63d8f">7c965d9</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/4193b781015945aa51c9aa5b6ae25c9e71c9d2e1">4193b78</a>
+- <a href="https://github.com/andrewjswan/andrewjswan.github.io/commit/bb8cb6f4d5563e273b0455d6a709f36f8c2bf52e">bb8cb6f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
