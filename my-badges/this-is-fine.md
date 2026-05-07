@@ -27,6 +27,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/svitlobot/pull/165">#165</a>: Add `ESPNow` `Heartbeat` package
 - <a href="https://github.com/andrewjswan/svitlobot/pull/171">#171</a>: Add `802.11k/v Native Roaming` for ESP32
 - <a href="https://github.com/andrewjswan/svitlobot/pull/177">#177</a>: ESPHome `2026.4` | Standardization of conditions for attachable packages
+- <a href="https://github.com/Mediaportal-Plugin-Team/SQLite/pull/9">#9</a>: Add daily workflow to check and update SQLite
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
