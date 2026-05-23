@@ -38,7 +38,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/f3881de84731ae92ad190599fbe13c95137fa064\">f3881de</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/3a9b938c8fc390888f54fb83b37944f5408179c3\">3a9b938</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/afb6ad82af1d9ada14b5beb9c8bc0605d6f0bf36\">afb6ad8</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/469d763862269d8ba1b8612c8061435a916328e9\">469d763</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/d85363e9b983305acd7d69a5d1a620d3e218e722\">d85363e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/3a66715c87dd253e7bf0276c7ac9d76e1570d453\">3a66715</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/f3881de84731ae92ad190599fbe13c95137fa064\">f3881de</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/3a9b938c8fc390888f54fb83b37944f5408179c3\">3a9b938</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/afb6ad82af1d9ada14b5beb9c8bc0605d6f0bf36\">afb6ad8</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/469d763862269d8ba1b8612c8061435a916328e9\">469d763</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1507 times)\n2. add (used 1415 times)\n3. bump (used 1218 times)\n4. merge (used 1136 times)\n5. request (used 944 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1507 times)\n2. add (used 1415 times)\n3. bump (used 1218 times)\n4. merge (used 1137 times)\n5. request (used 944 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/a4bbbdc93dccd240e08a054969ffd93a0a7c55cc\">a4bbbdc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/d4c2f5f15c584261a8a2868e3da1dcf846098e52\">d4c2f5f</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13ee3525e83f110d8e3998e2a56809c51ebf20d5\">13ee352</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/88c27407d438f199e9c532276c26e6f97c635b88\">88c2740</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/dde1f9beac9c54aee82af1fc49880ec63feccc77\">dde1f9b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/58e81a5e22d46149056a4ba7026e11427e6ff1ef\">58e81a5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/a4bbbdc93dccd240e08a054969ffd93a0a7c55cc\">a4bbbdc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/d4c2f5f15c584261a8a2868e3da1dcf846098e52\">d4c2f5f</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13ee3525e83f110d8e3998e2a56809c51ebf20d5\">13ee352</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/88c27407d438f199e9c532276c26e6f97c635b88\">88c2740</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
