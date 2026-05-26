@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/matrix-lamp/commit/b97f33266a0f84edcfdb2c4c66616dd83da7b79c">b97f332</a>
+- <a href="https://github.com/andrewjswan/matrix-lamp/commit/11160b88ab5ea5559aef82f046820ac7fcf02ede">11160b8</a>
+- <a href="https://github.com/andrewjswan/matrix-lamp/commit/fcd8c76dd1aedba4626f4f91141f2728d2b72224">fcd8c76</a>
+- <a href="https://github.com/andrewjswan/matrix-lamp/commit/8a928209816953d5f99483bc9f1a0830f3262340">8a92820</a>
+- <a href="https://github.com/andrewjswan/matrix-lamp/commit/24bc3bd7f7ec1288a2515b26c398294e02302494">24bc3bd</a>
 - <a href="https://github.com/andrewjswan/matrix-lamp/commit/3a66715c87dd253e7bf0276c7ac9d76e1570d453">3a66715</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/f3881de84731ae92ad190599fbe13c95137fa064">f3881de</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c">13931aa</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/3a9b938c8fc390888f54fb83b37944f5408179c3">3a9b938</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/afb6ad82af1d9ada14b5beb9c8bc0605d6f0bf36">afb6ad8</a>
-- <a href="https://github.com/andrewjswan/matrix-lamp/commit/469d763862269d8ba1b8612c8061435a916328e9">469d763</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
