@@ -29,6 +29,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/svitlobot/pull/177">#177</a>: ESPHome `2026.4` | Standardization of conditions for attachable packages
 - <a href="https://github.com/Mediaportal-Plugin-Team/SQLite/pull/9">#9</a>: Add daily workflow to check and update SQLite
 - <a href="https://github.com/andrewjswan/matrix-lamp/pull/250">#250</a>: Effect: `Taste of Honey` optimization
+- <a href="https://github.com/andrewjswan/esphome-components/pull/105">#105</a>: Fastled Helper: remove `esphome.h`
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
