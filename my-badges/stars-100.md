@@ -8,8 +8,8 @@ Repos:
 * <a href="https://github.com/andrewjswan/pixel-clock">andrewjswan/pixel-clock: ★14</a>
 * <a href="https://github.com/andrewjswan/matrix-lamp">andrewjswan/matrix-lamp: ★10</a>
 * <a href="https://github.com/andrewjswan/esphome-config">andrewjswan/esphome-config: ★6</a>
+* <a href="https://github.com/andrewjswan/SwatchTime">andrewjswan/SwatchTime: ★5</a>
 * <a href="https://github.com/andrewjswan/mediaportal-fanart-handler">andrewjswan/mediaportal-fanart-handler: ★4</a>
-* <a href="https://github.com/andrewjswan/SwatchTime">andrewjswan/SwatchTime: ★4</a>
 * <a href="https://github.com/andrewjswan/rsshub-addon">andrewjswan/rsshub-addon: ★4</a>
 * <a href="https://github.com/andrewjswan/dtek-blackout-schedule-calendars">andrewjswan/dtek-blackout-schedule-calendars: ★4</a>
 * <a href="https://github.com/andrewjswan/esphome-components">andrewjswan/esphome-components: ★4</a>
