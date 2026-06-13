@@ -147,13 +147,6 @@
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/custom-components/ble_monitor/issues/691\">#691</a>: RSSI sensor for Device tracker devices",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
-  },
-  {
     "id": "pi-day",
     "tier": 0,
     "desc": "Happy March 14th! I committed on a Pi Day!",
