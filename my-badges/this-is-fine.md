@@ -31,6 +31,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/matrix-lamp/pull/250">#250</a>: Effect: `Taste of Honey` optimization
 - <a href="https://github.com/andrewjswan/esphome-components/pull/105">#105</a>: Fastled Helper: remove `esphome.h`
 - <a href="https://github.com/andrewjswan/duco-miner/pull/3">#3</a>: Templates / Millestone
+- <a href="https://github.com/andrewjswan/duco-miner/pull/5">#5</a>: Duco: Add `USE_DUCO_MINER` define
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
