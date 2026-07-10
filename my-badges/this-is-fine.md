@@ -34,6 +34,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/duco-miner/pull/5">#5</a>: Duco: Add `USE_DUCO_MINER` define
 - <a href="https://github.com/andrewjswan/actions/pull/139">#139</a>: CWE-200: Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN
 - <a href="https://github.com/andrewjswan/duco-miner/pull/12">#12</a>: Add Changelog workflow
+- <a href="https://github.com/andrewjswan/duco-miner/pull/16">#16</a>: Documentation: Performance Impact on ESP8266
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
