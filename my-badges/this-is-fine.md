@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/386">#386</a>: Bump builder to Windows 2022
 - <a href="https://github.com/andrewjswan/esphome-components/pull/45">#45</a>: ESPHome 2025.7.0
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
 - <a href="https://github.com/andrewjswan/snmp2mqtt-addon/pull/7">#7</a>: node:lts-alpine version Bump to 3.22
@@ -35,6 +36,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/actions/pull/139">#139</a>: CWE-200: Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN
 - <a href="https://github.com/andrewjswan/duco-miner/pull/12">#12</a>: Add Changelog workflow
 - <a href="https://github.com/andrewjswan/duco-miner/pull/16">#16</a>: Documentation: Performance Impact on ESP8266
+- <a href="https://github.com/andrewjswan/actions/pull/140">#140</a>: Bump ESPHome version to `2026.7.0`
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
