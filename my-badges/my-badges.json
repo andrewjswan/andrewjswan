@@ -61,5 +61,215 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/45\">#45</a>: ESPHome 2025.7.0\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17\">#17</a>: Fix for first-interaction@v3\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/pull/7\">#7</a>: node:lts-alpine version Bump to 3.22\n- <a href=\"https://github.com/andrewjswan/home-assistant-dewpoint/pull/1\">#1</a>: Replacing `async_track_state_change` with `async_track_state_change_event`\n- <a href=\"https://github.com/andrewjswan/esphome-config/pull/16\">#16</a>: Rename `esp_log` to `esp_logger`\n- <a href=\"https://github.com/andrewjswan/esphome-config/pull/17\">#17</a>: Add Mini UPS\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/73\">#73</a>: Prettier fix\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/74\">#74</a>: Update .pre-commit-config.yaml\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/76\">#76</a>: OTA Fix for ESPHome 2026.0\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/77\">#77</a>: Performance: IRAM_ATTR Optimization for SHA256 Hardware Acceleration\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/41\">#41</a>: Create .pre-commit-config.yaml\n- <a href=\"https://github.com/andrewjswan/actions/pull/95\">#95</a>: CWE-190: Bump ESPHome version to 2026.1.2\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/58\">#58</a>: 3.5.35: Add `HealthCheck` package\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/63\">#63</a>: Add Documentation\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/70\">#70</a>: Screenshot\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/102\">#102</a>: Add `Web Server Authentication` as Package\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/80\">#80</a>: Shadow: Add `startup_delay` - delay of the first launch\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/116\">#116</a>: Add `Ping to Telegram` package\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/119\">#119</a>: Reorg `firmware` pages\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/159\">#159</a>: Increase `tls_buffer_size_rx` to `16384` for `http_request` on `ESP8266`\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/165\">#165</a>: Add `ESPNow` `Heartbeat` package\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/171\">#171</a>: Add `802.11k/v Native Roaming` for ESP32\n- <a href=\"https://github.com/andrewjswan/svitlobot/pull/177\">#177</a>: ESPHome `2026.4` | Standardization of conditions for attachable packages\n- <a href=\"https://github.com/Mediaportal-Plugin-Team/SQLite/pull/9\">#9</a>: Add daily workflow to check and update SQLite\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/pull/250\">#250</a>: Effect: `Taste of Honey` optimization\n- <a href=\"https://github.com/andrewjswan/esphome-components/pull/105\">#105</a>: Fastled Helper: remove `esphome.h`\n- <a href=\"https://github.com/andrewjswan/duco-miner/pull/3\">#3</a>: Templates / Millestone\n- <a href=\"https://github.com/andrewjswan/duco-miner/pull/5\">#5</a>: Duco: Add `USE_DUCO_MINER` define\n- <a href=\"https://github.com/andrewjswan/actions/pull/139\">#139</a>: CWE-200: Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN\n- <a href=\"https://github.com/andrewjswan/duco-miner/pull/12\">#12</a>: Add Changelog workflow\n- <a href=\"https://github.com/andrewjswan/duco-miner/pull/16\">#16</a>: Documentation: Performance Impact on ESP8266\n- <a href=\"https://github.com/andrewjswan/actions/pull/140\">#140</a>: Bump ESPHome version to `2026.7.0`\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/pull/42\">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "abcdef-commit",
+    "tier": 6,
+    "desc": "One of my commit sha starts with \"abcdef\".",
+    "body": "- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/abcdef5ba797d2a14da39304982daf4703453cd4\"><strong>abcdef</strong>5ba797d2a14da39304982daf4703453cd4</a>",
+    "image": "https://my-badges.github.io/my-badges/abcdef-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/6e955beb5bdae3a8036a2da2306a9eb709ad127f\">6e955be</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/2e6b8d286bb84fc57b08d8a22075f06af68554e8\">2e6b8d2</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/e4638414ffe04f1fe38cacc1abeb50889e6a7dc8\">e463841</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/7c3e95367f9764f2cedd3d0513f133bb00339aed\">7c3e953</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/b954bcf591a6b44735314fec740ed73bd6fdd666\">b954bcf</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/d3c885ac2ddab90d238a5e23e6bd068080e25fd2\">d3c885a</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/b4e80bc7a75216839f4232c5595942acafe7991a\">b4e80bc7a75216839f4232c5595942a<strong>cafe</strong>7991a</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/6db0877dc40c3fcafe8ba773c7519f85a0957612\">6db0877dc40c3f<strong>cafe</strong>8ba773c7519f85a0957612</a>\n- <a href=\"https://github.com/andrewjswan/rsshub-addon/commit/ad1ccafe1f9d2f2fa9043b27b3b415023b69a1b3\">ad1c<strong>cafe</strong>1f9d2f2fa9043b27b3b415023b69a1b3</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b\">eb5fdd3</a>: chore: Cosmetic",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/793bc87b07a7bbbacdacc030d27acfd1d3185a60\">793bc87</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/36cff6e2c480dd42bb043f9d661dad434eab4529\">36cff6e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/58e81a5e22d46149056a4ba7026e11427e6ff1ef\">58e81a5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/a4bbbdc93dccd240e08a054969ffd93a0a7c55cc\">a4bbbdc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/d4c2f5f15c584261a8a2868e3da1dcf846098e52\">d4c2f5f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/andrewjswan/svitlobot/commit/42af6adead2d0e62066cbccdbfd92cae422b7c3f\">42af6a<strong>dead</strong>2d0e62066cbccdbfd92cae422b7c3f</a>\n- <a href=\"https://github.com/andrewjswan/snmp2mqtt/commit/13305692dead19a8daf36b402409a204666bb61c\">13305692<strong>dead</strong>19a8daf36b402409a204666bb61c</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/61c98196fdeadc9ce1f5b09cce37118d09d18c6a\">61c98196f<strong>dead</strong>c9ce1f5b09cce37118d09d18c6a</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/692358161aa8bc3e4d5e97eeb7da12b055314987\">6923581</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/af29789c37e821bcadf8acfc25bfb829f767bfee\">af29789</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/e39a2e6e897d66632fedfabcf62b8424b62ab184\">e39a2e6</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/80ae2cc29f0481fb6e3e0802ee07de6dea33d179\">80ae2cc</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/0e7690fc90f9298d92b89186c69bf073bb918563\">0e7690f</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/116c12583e408071d90068855d5a11304e4885d0\">116c125</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-myvideo-importer/commit/5d412ff9252cff84233aab8c24dc035853b62cde\">5d412ff</a>: 💡 💣 👻",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/09b6908597dee013c187cbbb15ae1f207f31c7ad\">09b6908</a>\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722\">6aed0cc</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f44b9bd28a69f12f7e2212c3b702b7bb2da99ee2\">f44b9bd</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/0d7c0099e41c86c59d937a5d028a40ecff3605dd\">0d7c009</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/24ac7db6f66148764a66b439ad82817bc3f6e3a2\">24ac7db</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/0aa1bfcd8fccb490fcc863a295c01d80089fd274\">0aa1bfc</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/511bd3b9974cf33093a02346e4e2c694a5db3817\">511bd3b</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29\">6c41895</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/977444cf27b31227ad9efb4f98cc9675c2842dd1\">977444c</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef\">08ce3aa</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4\">65bdbae</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/4e968725b50ef45e9d13a24ba94f87ecbfee8e7c\">4e96872</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/953cce50bfee7415a8419bdd19f6fa882165491f\">953cce5</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/65153913ac5ea17b8c5fe5977d553264f63b9ea7\">6515391</a>\n- <a href=\"https://github.com/andrewjswan/GyverLamp-Firmware/commit/674edffe079f70834dc0295b1685ccfb4ccd565a\">674edff</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler/commit/e74235fbd479c3654508364a278e60bc15e6d723\">e74235f</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 1548 times)\n2. add (used 1501 times)\n3. bump (used 1247 times)\n4. merge (used 1148 times)\n5. request (used 952 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/39e117b6e7ce6b8788817dbfbcd56252416d6b2b\">39e117b</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/7b5a25a4bc236330d17e8285a9a0c45b1b3071db\">7b5a25a</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/c5537e14345f33f405454c233ad47314838b1de3\">c5537e1</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/779265e6c85e5e2340db8d4b4d28a7f918bf41fe\">779265e</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/419f611a9558575f6b84a5d624c3de5764db697f\">419f611</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/814a11c686fb8708b311be1a2a3a0e1d13123822\">814a11c</a>: Fix App.config build error\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/bba4bedd2ec1be5b3001b737e40c11bcbcee9de4\">bba4bed</a>: fix ffmpeg build error (azzuro patch)",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/e32d3e143bc36140175905b6c27a70c63552852e\">e32d3e1</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1f34f125533de7367ec24896a43af0b786f8e4e3\">1f34f12</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/5c6d0be0ba32227d9fb9c37d65e01e019afd5f2a\">5c6d0be</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/485a8e104066a862604f29aea9749f1d9840358c\">485a8e1</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/281b977596dcac217aa448c56e887c88c24c75e9\">281b977</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a292f683c17de063d669a0f3804131bf3b694bca\">a292f68</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/a698ba9aa2914da8fede1ecfa7223262f072c338\">a698ba9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/22f70bcbffb1a8e99009a037c411337b7f16b4d9\">22f70bc</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/39cdf40e5066f9cd2f1ba26403320536283e505a\">39cdf40</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/42af6adead2d0e62066cbccdbfd92cae422b7c3f\">42af6ad</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/02989105ad1abf2e1e28651276d1af755c4b8796\">0298910</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/746882fd09e798b40770fd1cf897770875140733\">746882f</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/517dff5ebd289d0cd6cd4296b02efcd701306b9e\">517dff5</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9262430b0dd651ebe5229c1c37610bd13e31bc\">1a92624</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan/commit/de8aac7aef73f57b540f67569503143f99d1236c\">de8aac7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/b89d7d91ddf9e170d495eaa0c2524ba79a3a0e79\">b89d7d9</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/deec31704ae2556c81952ee40976076e2c92907d\">deec317</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/345f914bedc0c27d4a2d24cb6db4e26d9034bacf\">345f914</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/mediaportal-titan-mepo-theme/commit/0a32ae2a24b1f060e5a6d41794ad629faaaa9349\">0a32ae2</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/c142095c42dc444744637080e4d541dcac1be3ab\">c142095</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/9c0647df418398052a17dcdb3a3f82ad893b79f4\">9c0647d</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/5bc46efe7ccffeef1a3cfa31970071f068d85ee7\">5bc46ef</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/7c965d920a7509fcb013869a8855eb79d5b63d8f\">7c965d9</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/4193b781015945aa51c9aa5b6ae25c9e71c9d2e1\">4193b78</a>\n- <a href=\"https://github.com/andrewjswan/andrewjswan.github.io/commit/bb8cb6f4d5563e273b0455d6a709f36f8c2bf52e\">bb8cb6f</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/13b98141858c4adcd00d2541a7808af480579c01\">13b9814</a>\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.studios/commit/cf0e5aa8223850da55e8ada195e5e821721c733b\">cf0e5aa</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.holidays/commit/d26408d3d80b941c9a4d04eec2a52093d9298511\">d26408d</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.genres/commit/267489305a67030cfc6ca1fdc537c17f6813a047\">2674893</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.images.awards/commit/1270348a5658c866445ffa18db7640e506225ec6\">1270348</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/64421a6ed7d1e1f43c15cdd7730b65847c8f031d\">64421a6</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/672fff59f903ea0d519a361d67e708799820cd2f\">672fff5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/d963ed510a1dbb12bce4b85cc68f644c2c62f7f0\">d963ed5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/6b73aee8f27c5611dca802dd2a388717e96f8ff3\">6b73aee</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/188fd5daffae33fdedf2055eaae54877f9185574\">188fd5d</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/e3c361dfe27025879ee9df9681775b4876c4f39c\">e3c361d</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a\">052d5e9</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/my-badges/commit/6aed0ccafc113b322885a0cae9e6265558568722\">6aed0cc</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/33f412a01bc9fc69f6eaf1da0fa7b1220c0bc3d7\">33f412a</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/cdcb933a6098d615f8dc54e588f2635e0fef62f5\">cdcb933</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/87a87d875854fdbbf72e5c6d17f8c8180a1fe82d\">87a87d8</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/6210ddeb005b1f7e6d9824733924191811d0a7ca\">6210dde</a>\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/aee426a3a69dc61c17ac7f84251e4bb6042a8930\">aee426a</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/1e4042cfd6d020c6d6a235bbad3c5466792ebce8\">1e4042c</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/d590901faf53963a81866b70b5bf5820bfabf98b\">d590901</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/ff2598a9b40f03a392bac1864e4b336b24adccc7\">ff2598a</a>\n- <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer/commit/881f18e60f4cd7b2399cccad113eeb9010565d86\">881f18e</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983\">4f67139</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19\">1a9902f</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799\">d75838b</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/27b8be1a733b961fe5e7091819c7903ebbea589b\">27b8be1</a>\n- <a href=\"https://github.com/andrewjswan/esphome-components/commit/7a8f6a4de38145635c328f8a4929c048fd2566ec\">7a8f6a4</a>\n- <a href=\"https://github.com/andrewjswan/actions/commit/df5e5b56dfc2d4efd04294b9408f44d9044aa781\">df5e5b5</a>\n- <a href=\"https://github.com/andrewjswan/SwatchTime/commit/7e0a4ad0dd76f65f58c35b2cc206cb7c2250cf50\">7e0a4ad</a>\n- <a href=\"https://github.com/andrewjswan/blackout-addons/commit/296bdb807aae9f685d5c88881c7f0af568c84ca6\">296bdb8</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1cccefbf36463a6cde1c730fe5107bf2011adf02\">1cccefb</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/094fb5bf24a80bdd5959c803d50e11caa37970a4\">094fb5b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/7fea58b0d8d4cddc02cff991a104a55903290666\">7fea58b</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/1126be9250e34c8788e628387265f5fc454e4cd5\">1126be9</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/f35b415dab96e160c4fadb0622b24821e8effff0\">f35b415</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/63f096c984a1de5293b00f4ed3f6d05de38cdc49\">63f096c</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/28cb207fec88e163ccd7e2c5acc9850fddc7b2ec\">28cb207</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/andrewjswan/andrewjswan\">andrewjswan/andrewjswan</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/andrewjswan/svitlobot\">andrewjswan/svitlobot: ★29</a>\n* <a href=\"https://github.com/andrewjswan/pixel-clock\">andrewjswan/pixel-clock: ★15</a>\n* <a href=\"https://github.com/andrewjswan/matrix-lamp\">andrewjswan/matrix-lamp: ★10</a>\n* <a href=\"https://github.com/andrewjswan/esphome-config\">andrewjswan/esphome-config: ★6</a>\n* <a href=\"https://github.com/andrewjswan/SwatchTime\">andrewjswan/SwatchTime: ★5</a>\n* <a href=\"https://github.com/andrewjswan/rsshub-addon\">andrewjswan/rsshub-addon: ★5</a>\n* <a href=\"https://github.com/andrewjswan/mediaportal-fanart-handler\">andrewjswan/mediaportal-fanart-handler: ★4</a>\n* <a href=\"https://github.com/andrewjswan/dtek-blackout-schedule-calendars\">andrewjswan/dtek-blackout-schedule-calendars: ★4</a>\n* <a href=\"https://github.com/andrewjswan/esphome-components\">andrewjswan/esphome-components: ★4</a>\n* <a href=\"https://github.com/andrewjswan/mediaportal-latest-media-handler\">andrewjswan/mediaportal-latest-media-handler: ★3</a>\n* <a href=\"https://github.com/andrewjswan/andrewjswan\">andrewjswan/andrewjswan: ★2</a>\n* <a href=\"https://github.com/andrewjswan/GyverLamp\">andrewjswan/GyverLamp: ★2</a>\n* <a href=\"https://github.com/andrewjswan/EspHoMaTriXv2\">andrewjswan/EspHoMaTriXv2: ★2</a>\n* <a href=\"https://github.com/andrewjswan/snmp2mqtt\">andrewjswan/snmp2mqtt: ★2</a>\n* <a href=\"https://github.com/andrewjswan/mediaportal.spectrum.analyzer\">andrewjswan/mediaportal.spectrum.analyzer: ★1</a>\n* <a href=\"https://github.com/andrewjswan/mediaportal.images.holidays\">andrewjswan/mediaportal.images.holidays: ★1</a>\n* <a href=\"https://github.com/andrewjswan/UnidecodeSharpFork\">andrewjswan/UnidecodeSharpFork: ★1</a>\n* <a href=\"https://github.com/andrewjswan/MediaPortal-1\">andrewjswan/MediaPortal-1: ★1</a>\n* <a href=\"https://github.com/andrewjswan/MPExtended\">andrewjswan/MPExtended: ★1</a>\n* <a href=\"https://github.com/andrewjswan/mediaportal.images.weather\">andrewjswan/mediaportal.images.weather: ★1</a>\n* <a href=\"https://github.com/andrewjswan/snmp2mqtt-addon\">andrewjswan/snmp2mqtt-addon: ★1</a>\n* <a href=\"https://github.com/andrewjswan/blackout-addons\">andrewjswan/blackout-addons: ★1</a>\n* <a href=\"https://github.com/andrewjswan/esphome-update-addon\">andrewjswan/esphome-update-addon: ★1</a>\n* <a href=\"https://github.com/andrewjswan/ollama-ipex-addon\">andrewjswan/ollama-ipex-addon: ★1</a>\n* <a href=\"https://github.com/andrewjswan/duco-miner\">andrewjswan/duco-miner: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/f675b2a403f802dc9437d9ebf8c4d19e2c6b99cd\">f675b2a</a>\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/90e6c1deaf4901e4b49c558a903268b29699c362\">90e6c1d</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/1466aa7703988474cf9f889e378078fd1456962d\">1466aa7</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/e8a3de26424e2431747fea387ff992009e76b962\">e8a3de2</a>\n- <a href=\"https://github.com/andrewjswan/esphome-docs/commit/febe8cc52988247e1d266e41ac7d15741331bef4\">febe8cc</a>\n- <a href=\"https://github.com/andrewjswan/esphome/commit/248dbd32a576364c1803bbc84ec2398a997744da\">248dbd3</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MPE/commit/3473d5386fb39da044c5c9fb1fe2d4c85786307f\">3473d53</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/25e19b578c1c5ddd0c31fa489d823ebcd062b907\">25e19b5</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/45835adfcf51e8025b041fe8acec269756044b9c\">45835ad</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/5e23d9b189400bdd07db0bb17466d9c5ae40dce1\">5e23d9b</a>\n- <a href=\"https://github.com/andrewjswan/MPExtended/commit/4214cc674eace98ead2cade3ccf8eb7b2527c260\">4214cc6</a>\n- <a href=\"https://github.com/andrewjswan/mvcentral/commit/bab3d93dfff694c7a0352c863c13af8a462fccf6\">bab3d93</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/5e97adbcf5629d2ad83935d4d5c9833b892c1cec\">5e97adb</a>\n- <a href=\"https://github.com/andrewjswan/duco-miner/commit/5472e3be9bee1bbc31aa180de900d49ce7e0c375\">5472e3b</a>\n- <a href=\"https://github.com/andrewjswan/duco-miner/commit/7e0413c3597156bb5b3faed5f024de97a3e8c065\">7e0413c</a>\n- <a href=\"https://github.com/andrewjswan/duco-miner/commit/6a8d5de3a4350446a213e16b6d3806521c74ec92\">6a8d5de</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/4f5ac0a4a96c99eb1d1f766929db24e5941f6fe3\">4f5ac0a</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/32b359222bd4f113ab9b2750541f7e929190b255\">32b3592</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/71d8275b1d7ce468cc53af0edb2be729402a1072\">71d8275</a>\n- <a href=\"https://github.com/andrewjswan/svitlobot/commit/e0098161b8246079c685ce03ccebe1c6b8239a16\">e009816</a>\n- <a href=\"https://github.com/andrewjswan/home-assistant-addons/commit/5e7058ab4f67bafd9c062086feda35ecd69cd608\">5e7058a</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/527d3e7389ccf71f4ad09e931f8f7c679ff4901b\">527d3e7</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/0c0a76e4017f3b86866995e6af8cf6826487e631\">0c0a76e</a>\n- <a href=\"https://github.com/andrewjswan/MediaPortal-1/commit/e8a1f5b51f7f8c89723d76990e364b81e457a183\">e8a1f5b</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "yeti",
+    "tier": 0,
+    "desc": "I found the yeti!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/MQTTPlugin/commit/fbcb992c0c3c8ed23466a5d40a9a22a6d0682b08\">fbcb992</a>",
+    "image": "https://my-badges.github.io/my-badges/yeti.png"
   }
 ]
