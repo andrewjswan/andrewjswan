@@ -36,6 +36,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/duco-miner/pull/12">#12</a>: Add Changelog workflow
 - <a href="https://github.com/andrewjswan/duco-miner/pull/16">#16</a>: Documentation: Performance Impact on ESP8266
 - <a href="https://github.com/andrewjswan/actions/pull/140">#140</a>: Bump ESPHome version to `2026.7.0`
+- <a href="https://github.com/andrewjswan/esphome-components/pull/112">#112</a>: Rework components, fully modularize music leds pipeline. Completely removed dependency on fastled library.
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/pull/42">#42</a>: Fix `wildcard` bug for `del_screen` does not yet work with icon names containing a `screen_id`
 
 
