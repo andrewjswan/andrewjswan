@@ -26,7 +26,6 @@ Repos:
 * <a href="https://github.com/andrewjswan/mediaportal.images.weather">andrewjswan/mediaportal.images.weather: ★1</a>
 * <a href="https://github.com/andrewjswan/snmp2mqtt-addon">andrewjswan/snmp2mqtt-addon: ★1</a>
 * <a href="https://github.com/andrewjswan/blackout-addons">andrewjswan/blackout-addons: ★1</a>
-* <a href="https://github.com/andrewjswan/esphome-update-addon">andrewjswan/esphome-update-addon: ★1</a>
 * <a href="https://github.com/andrewjswan/ollama-ipex-addon">andrewjswan/ollama-ipex-addon: ★1</a>
 * <a href="https://github.com/andrewjswan/duco-miner">andrewjswan/duco-miner: ★1</a>
 
