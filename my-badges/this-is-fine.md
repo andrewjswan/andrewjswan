@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/407">#407</a>: MP1.38.Final: MariaDB Mediaportal user / Tunning
 - <a href="https://github.com/andrewjswan/esphome-components/pull/45">#45</a>: ESPHome 2025.7.0
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
 - <a href="https://github.com/andrewjswan/snmp2mqtt-addon/pull/7">#7</a>: node:lts-alpine version Bump to 3.22
