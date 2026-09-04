@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/andrewjswan/esphome-components/pull/45">#45</a>: ESPHome 2025.7.0
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
 - <a href="https://github.com/andrewjswan/snmp2mqtt-addon/pull/7">#7</a>: node:lts-alpine version Bump to 3.22
 - <a href="https://github.com/andrewjswan/home-assistant-dewpoint/pull/1">#1</a>: Replacing `async_track_state_change` with `async_track_state_change_event`
