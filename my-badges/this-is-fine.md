@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/429">#429</a>: MP1.38.Final: Small SplashScreen scale Fix
 - <a href="https://github.com/andrewjswan/mediaportal-titan-mepo-theme/pull/17">#17</a>: Fix for first-interaction@v3
 - <a href="https://github.com/andrewjswan/snmp2mqtt-addon/pull/7">#7</a>: node:lts-alpine version Bump to 3.22
 - <a href="https://github.com/andrewjswan/home-assistant-dewpoint/pull/1">#1</a>: Replacing `async_track_state_change` with `async_track_state_change_event`
@@ -37,6 +36,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/duco-miner/pull/16">#16</a>: Documentation: Performance Impact on ESP8266
 - <a href="https://github.com/andrewjswan/actions/pull/140">#140</a>: Bump ESPHome version to `2026.7.0`
 - <a href="https://github.com/andrewjswan/esphome-components/pull/112">#112</a>: Rework components, fully modularize music leds pipeline. Completely removed dependency on fastled library.
+- <a href="https://github.com/MediaPortal/MediaPortal-1/pull/422">#422</a>: MP1.38 Final:  Update I
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
