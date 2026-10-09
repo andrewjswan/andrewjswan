@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/andrewjswan/svitlobot">andrewjswan/svitlobot: ★29</a>
+* <a href="https://github.com/andrewjswan/svitlobot">andrewjswan/svitlobot: ★30</a>
 * <a href="https://github.com/andrewjswan/pixel-clock">andrewjswan/pixel-clock: ★17</a>
 * <a href="https://github.com/andrewjswan/matrix-lamp">andrewjswan/matrix-lamp: ★11</a>
 * <a href="https://github.com/andrewjswan/esphome-config">andrewjswan/esphome-config: ★6</a>
