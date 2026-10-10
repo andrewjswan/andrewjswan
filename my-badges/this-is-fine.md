@@ -36,6 +36,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/duco-miner/pull/16">#16</a>: Documentation: Performance Impact on ESP8266
 - <a href="https://github.com/andrewjswan/actions/pull/140">#140</a>: Bump ESPHome version to `2026.7.0`
 - <a href="https://github.com/andrewjswan/esphome-components/pull/112">#112</a>: Rework components, fully modularize music leds pipeline. Completely removed dependency on fastled library.
+- <a href="https://github.com/andrewjswan/SwatchTime/pull/55">#55</a>: docs: Add `quality_scale.yaml` for Home Assistant Quality Scale
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
