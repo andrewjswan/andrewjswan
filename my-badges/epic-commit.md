@@ -12,6 +12,7 @@ Commits:
 - <a href="https://github.com/andrewjswan/svitlobot/commit/0aa1bfcd8fccb490fcc863a295c01d80089fd274">0aa1bfc</a>
 - <a href="https://github.com/andrewjswan/svitlobot/commit/511bd3b9974cf33093a02346e4e2c694a5db3817">511bd3b</a>
 - <a href="https://github.com/andrewjswan/esphome-components/commit/6c4189546147cde3631b87fb5cfc02a2ef05fa29">6c41895</a>
+- <a href="https://github.com/andrewjswan/MediaPortal-1/commit/552d55c441e7773bb01575039169e00bce68f9ed">552d55c</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/977444cf27b31227ad9efb4f98cc9675c2842dd1">977444c</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/08ce3aaae601ddbc41037fb84dde9f1551aff5ef">08ce3aa</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/65bdbae487114b027c41bda1c0d82e4bd41af3b4">65bdbae</a>
