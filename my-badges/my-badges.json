@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1583 times)\n2. add (used 1526 times)\n3. bump (used 1263 times)\n4. merge (used 1159 times)\n5. request (used 965 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1583 times)\n2. add (used 1528 times)\n3. bump (used 1265 times)\n4. merge (used 1160 times)\n5. request (used 966 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/793bc87b07a7bbbacdacc030d27acfd1d3185a60\">793bc87</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/36cff6e2c480dd42bb043f9d661dad434eab4529\">36cff6e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/58e81a5e22d46149056a4ba7026e11427e6ff1ef\">58e81a5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/a4bbbdc93dccd240e08a054969ffd93a0a7c55cc\">a4bbbdc</a>\n- <a href=\"https://github.com/andrewjswan/esphome-update-addon/commit/d4c2f5f15c584261a8a2868e3da1dcf846098e52\">d4c2f5f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andrewjswan/alert-map-proxy-addon/commit/0eaad6cfb982d875c84a845c69fde22a7e24fe64\">0eaad6c</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/793bc87b07a7bbbacdacc030d27acfd1d3185a60\">793bc87</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/36cff6e2c480dd42bb043f9d661dad434eab4529\">36cff6e</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/58e81a5e22d46149056a4ba7026e11427e6ff1ef\">58e81a5</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/13931aaabe94ecf5c179a404bbb822ab5e30178c\">13931aa</a>\n- <a href=\"https://github.com/andrewjswan/matrix-lamp/commit/a4bbbdc93dccd240e08a054969ffd93a0a7c55cc\">a4bbbdc</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
