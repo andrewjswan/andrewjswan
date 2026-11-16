@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/andrewjswan/esphome-config/pull/16">#16</a>: Rename `esp_log` to `esp_logger`
 - <a href="https://github.com/andrewjswan/esphome-config/pull/17">#17</a>: Add Mini UPS
 - <a href="https://github.com/andrewjswan/esphome-components/pull/73">#73</a>: Prettier fix
 - <a href="https://github.com/andrewjswan/esphome-components/pull/74">#74</a>: Update .pre-commit-config.yaml
