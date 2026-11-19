@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/andrewjswan/snmp2mqtt-addon/commit/eb5fdd3ba3b7f47ebd207c591d4c567531f8d90b">eb5fdd3</a>: chore: Cosmetic
+- <a href="https://github.com/andrewjswan/pixel-clock/commit/663bdf3b5932ea3cfdcaabf8cfafb8e26c41b066">663bdf3</a>: chore: Refactoring Advanced Bitmap mode
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

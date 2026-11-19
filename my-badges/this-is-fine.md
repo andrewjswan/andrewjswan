@@ -38,6 +38,7 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/esphome-components/pull/115">#115</a>: Nerdminer: Remove cJSON library
 - <a href="https://github.com/andrewjswan/esphome-components/pull/116">#116</a>: Tests Rework
 - <a href="https://github.com/andrewjswan/svitlobot/pull/203">#203</a>: Add ESPEasy Tips
+- <a href="https://github.com/andrewjswan/esphome-components/pull/117">#117</a>: Switch to `mkdocs-document-dates`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/pixel-clock/commit/f94a20eed177abdce6db750556a0ae440ccb59a0">f94a20e</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/4f671394c860392f3978b81be9bba14bc9f65983">4f67139</a>
 - <a href="https://github.com/andrewjswan/MediaPortal-1/commit/1a9902ffacaca707d4c368a75ab0a6dca12d9e19">1a9902f</a>
 - <a href="https://github.com/andrewjswan/MediaPortal-1/commit/d75838bb8aec9fee3168c2460811644ef6ad1799">d75838b</a>

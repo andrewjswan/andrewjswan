@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/andrewjswan/pixel-clock/commit/dca760c9a7a55abd811c37b0074d9ee37280b02e">dca760c</a>
 - <a href="https://github.com/andrewjswan/EspHoMaTriXv2/commit/052d5e998b077f9d5874cf2a89ed9e3797ebdc7a">052d5e9</a>
 
 
