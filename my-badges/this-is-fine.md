@@ -39,6 +39,8 @@ Pull requests:
 - <a href="https://github.com/andrewjswan/esphome-components/pull/116">#116</a>: Tests Rework
 - <a href="https://github.com/andrewjswan/svitlobot/pull/203">#203</a>: Add ESPEasy Tips
 - <a href="https://github.com/andrewjswan/esphome-components/pull/117">#117</a>: Switch to `mkdocs-document-dates`
+- <a href="https://github.com/andrewjswan/pixel-clock/pull/102">#102</a>: Migrate from `ehmtxv2` to `pixel-clock` component
+- <a href="https://github.com/andrewjswan/esphome-components/pull/119">#119</a>: WebSocket: Socket Consumption API
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
